@@ -1,0 +1,2656 @@
+nombre	inicio	final	longitud	producto
+dnaA	517	1878	1361	chromosomal replication initiator protein DnaA
+dnaN	2156	3289	1133	DNA polymerase III, beta chain
+SAR0003	3670	3915	245	conserved hypothetical protein
+recF	3912	5024	1112	DNA replication and repair protein RecF
+gyrB	5037	6968	1931	DNA gyrase subunit B
+gyrA	7005	9665	2660	DNA gyrase subunit A
+SAR0007	9753	10583	830	conserved hypothetical protein
+hutH	10891	12405	1514	putative histidine ammonia-lyase
+serS	12783	14069	1286	seryl-tRNA synthetase
+SAR0010	14713	15408	695	putative membrane protein
+SAR0011	15405	15734	329	putative membrane protein
+SAR0012	16096	17064	968	putative hydrolase
+SAR0013	17309	18295	986	putative membrane protein
+SAR0014	18310	20277	1967	putative membrane protein
+rplI	20274	20720	446	50S ribosomal protein L9
+dnaC	20752	22152	1400	DnaB-like helicase
+purA	22430	23713	1283	putative adenylosuccinate synthetase
+yycF	24897	25604	707	response regulator protein
+yycG	25617	27443	1826	sensor kinase protein
+yycH	27436	28770	1334	putative exported protein
+yycI	28771	29559	788	putative exported protein
+yycJ	29947	30747	800	metallo-beta-lactamase superfamily protein
+sasH	30932	33292	2360	putative 5'-nucleotidase
+SAR0024	33660	34139	479	conserved hypothetical protein
+SAR0025	34422	35717	1295	hypothetical protein
+SAR0026	36132	36371	239	hypothetical protein
+SAR0027	36403	37077	674	putative transposase
+repB	37168	37377	209	replication protein (pseudogene)
+pre	38197	38373	176	hypothetical protein
+SAR0031a	38396	39658	1262	plasmid recombination enzyme
+SAR0031b	39767	39907	140	hypothetical protein
+ble	39973	40146	173	hypothetical protein
+knt	40165	40569	404	bleomycin resistance protein
+SAR0034	40786	41556	770	kanamycin nucleotidyltransferase
+SAR0036	41749	42423	674	putative transposase
+ugpQ	42681	42848	167	HMG-CoA synthase (fragment)
+SAR0038	42946	43155	209	putative membrane protein
+mecA	43605	44348	743	glycerophosphoryl diester phosphodiesterase
+mecR1	44445	44873	428	conserved hypothetical protein
+mecI	44919	46925	2006	penicillin-binding protein 2 prime
+SAR0042	47025	48782	1757	methicillin resistance protein MecR1
+xylR	48782	49126	344	methicillin resistance regulatory protein MecI
+SAR0047	49263	49466	203	hypothetical protein
+SAR0049	49626	50770	1144	xylose repressor (pseudogene)
+ermA1	50884	51279	395	metallo-beta-lactamase superfamily protein
+spc1	52251	53315	1064	hypothetical protein
+tnpC1	53445	53711	266	conserved hypothetical protein
+tnpB1	53711	54355	644	putative membrane protein (fragment)
+tnpA1	54694	55356	662	hypothetical protein
+SAR0056	55890	56621	731	rRNA adenine N-6-methyltransferase 1
+SAR0057	56747	57529	782	streptomycin 3''-adenylyltransferase 1
+SAR0058	57680	58057	377	transposase C 1
+ccrB	58064	59956	1892	transposase B 1
+ccrA	59953	61038	1085	transposase A 1
+SAR0061	61157	61474	317	DNA repair protein RadC (fragment)
+SAR0062	61495	62001	506	conserved hypothetical protein
+SAR0063	62019	62330	311	hypothetical protein
+SAR0066	62417	62767	350	hypothetical protein
+kdpE	63285	64913	1628	site-specific recombinase
+SAR0069	64935	66284	1349	site-specific recombinase
+SAR0070	66518	68311	1793	putative membrane protein
+SAR0071	68311	68607	296	hypothetical protein
+SAR0074	68800	69846	1046	hypothetical protein
+SAR0075	70097	70585	488	putative transposase (pseudogene)
+SAR0075a	70924	71238	314	putative transposase
+SAR0076	71749	72651	902	putative membrane protein (fragment)
+SAR0077	73397	74092	695	response regulator protein
+SAR0078	74067	76787	2720	sensor kinase protein
+SAR0079	77004	78680	1676	potassium-transporting ATPase A chain
+SAR0080	78699	80720	2021	potassium-transporting ATPase B chain
+SAR0081	80736	81292	556	potassium-transporting ATPase C chain
+SAR0082	81837	82706	869	hypothetical protein
+SAR0084	82716	83612	896	hypothetical protein
+SAR0085	83654	83779	125	hypothetical protein
+SAR0086	83812	84249	437	hypothetical protein
+SAR0087	84354	84641	287	putative membrane protein
+SAR0088	84731	85357	626	hypothetical protein
+SAR0089	85472	86980	1508	putative protein kinase
+SAR0090	87145	89265	2120	hypothetical protein
+SAR0091	89496	89795	299	transposase
+SAR0092	89837	90643	806	transposase
+SAR0093	90670	90831	161	hypothetical protein (fragment)
+SAR0094	90831	91346	515	hypothetical protein
+SAR0097	91351	92298	947	putative transposase
+SAR0098	92484	92858	374	hypothetical protein
+SAR0099	93145	94848	1703	putative restriction enzyme
+SAR0100	94841	95881	1040	putative restriction enzyme modulator protein
+SAR0101	96110	96208	98	hypothetical protein
+SAR0102	96312	96470	158	hypothetical protein
+SAR0103	96778	96909	131	putative insertion sequence protein
+SAR0104	97309	98280	971	putative hydratase
+plc	98333	98704	371	putative membrane protein
+SAR0106	98724	100085	1361	putative transporter protein
+SAR0107	100243	101055	812	putative acetyltransferase (pseudogene)
+SAR0108	101081	101656	575	putative DNA-binding protein
+SAR0109	102126	102599	473	acetyltransferase (GNAT) family protein
+SAR0110	102706	103692	986	conserved hypothetical protein
+SAR0111	104041	104202	161	putative membrane protein
+SAR0112	104251	104547	296	hypothetical protein
+lldP1	104746	105357	611	putative membrane protein
+spa	105625	108777	3152	hypothetical protein
+SAR0115	108860	109342	482	putative membrane protein
+sirC	109547	110533	986	1-phosphatidylinositol phosphodiesterase
+sirB	110754	111524	770	putative lipoprotein
+sirA	111618	113855	2237	putative regulatory protein
+SAR0119	114006	115184	1178	putative peptidase
+SAR0120	115186	116574	1388	putative transporter protein
+SAR0121	117060	118727	1667	putative Na+/Pi-cotransporter protein
+SAR0122	119046	120821	1775	putative myosin-crossreactive antigen
+SAR0123	121172	121645	473	putative membrane protein
+SAR0124	121907	123499	1592	L-lactate permease 1
+SAR0125	123828	125378	1550	immunoglobulin G binding protein A precursor
+SAR0126	125799	126551	752	putative regulatory protein
+SAR0127	126920	127918	998	putative siderophore transport system permease
+SAR0128	127915	128910	995	putative siderophore transport system permease
+SAR0129	128926	129918	992	lipoprotein
+SAR0130a	130149	131129	980	pyridoxal-phosphate dependent enzyme
+SAR0130	131126	132136	1010	putative ornithine cyclodeaminase
+SAR0131	132157	133911	1754	putative siderophore biosynthesis protein
+SAR0132	133904	135160	1256	putative transport protein
+SAR0133	135150	136886	1736	putative siderophore biosynthesis protein
+SAR0134	136867	138645	1778	putative siderophore biosynthesis protein
+sodM	138620	139396	776	putative aldolase
+sasD	139396	140598	1202	pyridoxal-dependent decarboxylase decarboxylase
+SAR0137	140602	141366	764	hypothetical protein
+deoD1	141562	142188	626	putative membrane protein
+SAR0139	142399	143175	776	putative short chain dehydrogenase
+deoC1	143224	143337	113	hypothetical protein
+drm	143519	144490	971	NAD dependent epimerase/dehydratase family
+SAR0142	144453	145142	689	putative sugar transferase
+SAR0143	145352	146518	1166	galactosyl transferase
+SAR0144	146499	147737	1238	putative membrane protein
+SAR0145	147727	149157	1430	polysaccharide biosynthesis protein
+SAR0146	149425	150024	599	superoxide dismutase
+SAR0147	150393	151058	665	putative surface anchored protein
+SAR0148	151160	151900	740	GntR family regulatory protein
+SAR0149	152151	152858	707	putative purine nucleoside phosphorylase
+adhE	152865	154217	1352	putative transport system protein
+capA	154298	154960	662	deoxyribose-phosphate aldolase
+capB	154988	156166	1178	putative phosphopentomutase
+capC	156297	157112	815	binding-protein-dependent transport systems
+capD	157109	157909	800	binding-protein-dependent transport system
+capE	157911	158684	773	putative ABC transport ATP-binding protein
+capF	158898	159854	956	putative lipoprotein
+capG	160083	161627	1544	putative exported protein
+cap8H	161678	163213	1535	putative nucleotidase
+cap8I	163370	164137	767	hypothetical protein
+cap8J	164143	165318	1175	putative DNA-binding protein
+cap8K	165704	168313	2609	putative aldehyde-alcohol dehydrogenase
+capL	168658	169326	668	capsular polysaccharide synthesis enzyme
+capM	169342	170028	686	capsular polysaccharide synthesis enzyme
+capN	170031	170795	764	capsular polysaccharide synthesis enzyme
+capO	170815	172638	1823	capsular polysaccharide synthesis enzyme
+capP	172628	173656	1028	capsular polysaccharide synthesis enzyme
+SAR0167	173669	174778	1109	capsular polysaccharide synthesis enzyme
+SAR0168	174782	175906	1124	capsular polysaccharide synthesis enzyme
+SAR0169	175909	176988	1079	capsular polysaccharide synthesis enzyme
+SAR0170	176981	178375	1394	capsular polysaccharide synthesis enzyme
+SAR0171	178372	178929	557	capsular polysaccharide synthesis enzyme
+SAR0172	178938	180176	1238	capsular polysaccharide synthesis enzyme
+SAR0173	180210	181415	1205	capsular polysaccharide synthesis enzyme
+SAR0174	181426	181983	557	capsular polysaccharide synthesis enzyme
+SAR0175	181983	182870	887	capsular polysaccharide synthesis enzyme
+SAR0176	182924	184186	1262	capsular polysaccharide synthesis enzyme
+SAR0177	184233	185408	1175	capsular polysaccharide synthesis enzyme
+SAR0178	185473	185799	326	conserved hypothetical protein
+SAR0179	185806	186189	383	putative membrane protein
+SAR0180	186616	188103	1487	putative aldehyde dehydrogenase
+SAR0181	188750	189709	959	putative cation efflux system protein
+SAR0182	189771	189974	203	hypothetical protein
+SAR0183	190154	190666	512	conserved hypothetical protein
+argJ	191008	191748	740	putative ABC transporter ATP-binding protein
+argC	191762	192736	974	putative lipoprotein
+SAR0186	192733	193494	761	putative transport system permease
+SAR0187	193507	194538	1031	conserved hypothetical protein
+SAR0188	194752	195111	359	conserved hypothetical protein
+SAR0189	195186	196310	1124	putative D-isomer specific 2-hydroxyacid
+glcA	196696	197946	1250	putative transporter protein
+SAR0191	198393	205568	7175	putative non-ribosomal peptide synthetase
+SAR0192	205581	206225	644	4'-phosphopantetheinyl transferase superfamily
+SAR0193	206554	207048	494	putative membrane protein
+SAR0194	207318	208088	770	putative amino acid kinase
+SAR0195	208104	209345	1241	putative arginine biosynthesis bifunctional
+SAR0196	209357	210391	1034	putative N-acetyl-gamma-glutamyl-phosphate
+SAR0197	210427	211611	1184	putative ornithine aminotransferase precursor
+SAR0198	211864	213219	1355	putative branched-chain amino acid transport
+SAR0199	213486	214043	557	putative isochorismatase
+SAR0200	214110	215750	1640	putative thiamine pyrophosphate enzyme
+rlp	216022	218067	2045	glucose-specific PTS transporter protein, IIABC
+SAR0202	218652	219707	1055	conserved hypothetical protein
+SAR0203	219704	220603	899	conserved hypothetical protein
+SAR0204	220615	222069	1454	sucrose-specific PTS tranporter protein
+SAR0205	222069	222947	878	RpiR family transcriptional regulator
+SAR0206	223142	223423	281	putative membrane protein
+SAR0207	223636	226425	2789	putative type I restriction enzyme
+SAR0208	226625	227488	863	hypothetical protein
+SAR0209	227693	229285	1592	ABC transporter ATP-binding protein
+SAR0210	229413	230720	1307	putative transport system permease
+SAR0211	230726	231889	1163	putative transport system permease
+SAR0212	231906	233681	1775	RGD-containing lipoprotein
+uhpT	233719	235725	2006	putative gamma-glutamyltranspeptidase
+SAR0214	236262	236888	626	putative phosphodiesterase
+SAR0215	237097	237675	578	putative peptidase
+SAR0216	238058	239155	1097	putative ABC transporter, ATP-binding protein
+SAR0217	239168	240439	1271	putative extracellular sugar-binding
+SAR0218	240442	241710	1268	putative sugar transport system permease
+SAR0219	241712	242551	839	putative sugar transport system permease
+SAR0220	242725	243804	1079	putative oxidoreductase
+SAR0221	243829	244869	1040	putative oxidoreductase
+SAR0222	244924	245892	968	conserved hypothetical protein
+fadA	246251	246745	494	putative membrane protein
+fadB	246978	248357	1379	putative sugar phosphate transport protein
+fadD	248716	249474	758	putative response regulator
+fadE	249467	251023	1556	putative sensor kinase protein
+fadX	251020	251988	968	putative lipoprotein
+SAR0228	252576	254825	2249	formate acetyltransferase
+SAR0229	254848	255603	755	putative pyruvate formate-lyase activating
+SAR0230	255707	255874	167	hypothetical protein
+SAR0231	255925	257688	1763	putative membrane protein
+SAR0232	257852	258196	344	hypothetical protein
+SAR0233	258386	260215	1829	staphylocoagulase precursor
+ldh1	260802	261986	1184	putative thiolase
+SAR0235	262016	264277	2261	putative fatty oxidation complex protein
+SAR0236	264464	265675	1211	putative acyl-CoA dehydrogenase
+SAR0237	265787	267292	1505	putative acyl-CoA synthetase
+SAR0240	267318	268880	1562	putative acetyl-CoA transferase
+SAR0241	269254	269925	671	putative glutamine amidotransferase class-I
+SAR0242	270148	271290	1142	putative membrane protein
+SAR0243	271601	273076	1475	putative extracellular solute-binding
+SAR0244	273274	273630	356	conserved hypothetical protein
+SAR0245	273787	273960	173	putative membrane protein
+SAR0246	273985	275130	1145	flavohemoprotein
+SAR0247	275703	276656	953	L-lactate dehydrogenase 1
+SAR0248	276977	278506	1529	putative PTS transport system, IIBC component
+SAR0249	278870	279805	935	putative inosine-uridine preferring nucleoside
+SAR0250	279841	279987	146	hypothetical protein
+SAR0251	280143	281561	1418	putative PTS multi-domain regulator
+SAR0252	282224	282691	467	putative PTS transport system, IIA component
+SAR0253	282714	282992	278	putative PTS transport system, IIB component
+SAR0254	283219	284478	1259	putative PTS transport system, IIC component
+SAR0255	284496	285551	1055	putative zinc-binding dehydrogenase
+scdA	285553	285699	146	hypothetical protein
+lytS	285723	286766	1043	putative zinc-binding dehydrogenase
+lytR	287294	288010	716	conserved hypothetical protein
+lrgA	288003	289028	1025	putative zinc-binding dehydrogenase
+lrgB	289050	290744	1694	hypothetical protein
+SAR0261	291010	291171	161	hypothetical protein
+SAR0262	291336	291461	125	hypothetical protein
+SAR0263	291714	292883	1169	putative teichoic acid biosynthesis protein
+bglA	293159	293875	716	conserved hypothetical protein
+SAR0265	293868	294893	1025	putative zinc-binding dehydrogenase
+SAR0266	294915	296603	1688	hypothetical protein
+SAR0267	296636	298360	1724	putative glycosyl transferase
+SAR0268	298500	299174	674	cell wall metabolism protein
+SAR0269	299425	301179	1754	autolysin sensor kinase protein
+SAR0269a	301182	301922	740	autolysin response regulator protein
+SAR0270	302035	302478	443	holin-like protein
+SAR0271	302471	303172	701	holin-like protein
+SAR0272	303513	305804	2291	putative nitric oxide reductase
+lytM	306030	306734	704	GntR family regulatory protein
+SAR0274	306881	307672	791	putative PTS transport system protein
+SAR0275	307688	309124	1436	6-phospho-beta-glucosidase
+SAR0276	309619	310380	761	conserved hypothetical protein
+SAR0277	310631	311545	914	putative ribokinase
+SAR0278	311573	311977	404	putative ribose transport protein
+SAR0279	311992	312873	881	putative sugar transport protein
+SAR0280	313105	314103	998	LacI family regulatory protein
+SAR0281	314320	314433	113	hypothetical protein
+SAR0282	314483	314875	392	hypothetical protein
+SAR0283	315004	316380	1376	putative transport protein
+SAR0284	316614	317606	992	putative choloylglycine hydrolase
+SAR0285	317932	318882	950	peptidoglycan hydrolase
+SAR0286	318934	319593	659	putative ABC transporter ATP-binding protein
+SAR0287	319607	320527	920	putative membrane protein
+SAR0288	320524	321690	1166	putative membrane protein
+SAR0289	321758	323281	1523	putative exported protein
+SAR0290	323611	324513	902	putative exported protein
+SAR0291	324752	325045	293	conserved hypothetical protein
+SAR0292	325128	328157	3029	putative membrane protein
+SAR0293	328157	328615	458	putative membrane protein
+SAR0294	328587	328829	242	conserved hypothetical protein
+SAR0299	328842	330176	1334	putative membrane protein
+SAR0301	330198	334646	4448	putative membrane protein
+SAR0302	334649	334915	266	hypothetical protein
+SAR0303	334938	335333	395	hypothetical protein
+SAR0304	335355	337025	1670	hypothetical protein
+SAR0305	337041	337685	644	putative membrane protein
+SAR0306	337685	338140	455	hypothetical protein
+SAR0307	338160	338591	431	hypothetical protein
+SAR0308	338615	339202	587	putative membrane protein
+SAR0309	339379	339597	218	putative membrane protein
+SAR0310	339729	340229	500	conserved hypothetical protein
+SAR0311	340240	340740	500	conserved hypothetical protein
+SAR0312	340751	341239	488	conserved hypothetical protein (pseudogene)
+SAR0313	341250	341738	488	conserved hypothetical protein (pseudogene)
+SAR0314	342424	342750	326	hypothetical protein
+SAR0315	342884	343282	398	putative membrane protein
+SAR0316	343532	344356	824	putative formate/nitrite transporter
+geh	344607	345914	1307	putative amino acid transport system
+SAR0318	346498	347388	890	putative exported protein
+SAR0319	347637	348686	1049	putative membrane protein
+SAR0320	348699	349376	677	ABC transporter ATP-binding protein
+SAR0321	349584	350615	1031	putative membrane protein
+SAR0322	350958	352076	1118	PfkB family carbohydrate kinase
+SAR0323	352051	352974	923	putative membrane protein
+SAR0324	352985	354205	1220	putative nucleoside permease
+SAR0325	354310	355842	1532	sodium:solute symporter family protein
+SAR0326	355882	356763	881	putative N-acetylneuraminate lyase
+SAR0327	356921	357781	860	putative ROK family protein
+SAR0328	358058	358858	800	putative transcription regulator
+SAR0329	358998	359666	668	conserved hypothetical protein
+SAR0330	359792	361105	1313	putative membrane protein
+SAR0331	361522	363597	2075	lipase precursor
+SAR0332	363839	364666	827	hypothetical protein
+glpT	364724	365938	1214	NADH:flavin oxidoreductase/NADH oxidase family
+SAR0334	366246	367247	1001	putative bacterial luciferase family protein
+SAR0335	367281	367613	332	putative glycine cleavage H-protein
+SAR0338	367614	368414	800	conserved hypothetical protein
+SAR0339	368401	369348	947	conserved hypothetical protein
+SAR0340	369326	370348	1022	putative lipoate-protein ligase A
+SAR0341	370661	371689	1028	putative reductase
+SAR0342	371783	373129	1346	putative membrane protein
+SAR0343	373144	373428	284	putative PTS transport system protein
+SAR0344	373430	373873	443	putative PTS transport system IIA component
+SAR0345	373878	375833	1955	putative PTS multidomain regulator
+SAR0346	376045	376464	419	MarR family regulatory protein
+SAR0347	376571	377926	1355	putative membrane protein
+SAR0348	378032	378472	440	hypothetical protein
+SAR0349	378556	379914	1358	putative glycerol-3-phosphate transporter
+SAR0350	380226	381152	926	putative dioxygenase
+thl	381166	382227	1061	putative luciferase-like monooxygenase
+SAR0352	382241	382807	566	NADH-dependent FMN reductase (pseudogene)
+metE	382867	383862	995	putative membrane protein
+SAR0354	384222	384767	545	putative acetyltransferase
+SAR0355	385032	385886	854	putative lipoprotein
+SAR0356	385883	387112	1229	putative Sec-independent exported protein
+SAR0357	387093	388805	1712	putative membrane protein
+SAR0358	389116	389817	701	putative Sec-independent protein translocase
+SAR0359	389834	390049	215	putative Sec-independent protein translocase
+SAR0360	390157	390546	389	conserved hypothetical protein
+SAR0361	390786	390989	203	putative DNA-binding protein
+rpsF	390986	391699	713	putative membrane protein
+ssb	391724	392566	842	ABC transporter ATP-binding protein
+rpsR	392566	393195	629	putative membrane protein
+SAR0365	393564	394697	1133	putative membrane protein
+SAR0366	395237	396418	1181	acetyl-CoA acetyltransferase
+SAR0367	396501	397253	752	conserved hypothetical protein
+SAR0368	397296	399524	2228	5-methyltetrahydropteroyltriglutamate--homocyst
+SAR0369	399521	401362	1841	conserved hypothetical protein
+SAR0370	401331	402491	1160	Cys/Met metabolism PLP-dependent enzyme
+SAR0371	402488	403591	1103	Cys/Met metabolism PLP-dependent enzyme
+SAR0372	404255	405100	845	putative DNA-binding protein
+SAR0373	405254	406135	881	putative membrane protein
+SAR0374	406165	406368	203	conserved hypothetical protein
+SAR0375	406380	407477	1097	putative GTP-binding protein
+SAR0376	407563	407754	191	hypothetical protein
+SAR0377	407998	408294	296	30S ribosomal protein S6
+SAR0378	408315	408818	503	putative single-strand DNA-binding protein
+SAR0379	408870	409112	242	30S ribosomal protein S18
+SAR0380	409344	410063	719	hypothetical protein
+SAR0381	410176	411390	1214	putative integrase
+SAR0382	411551	412174	623	DNA-binding protein
+SAR0383	412269	412487	218	putative DNA-binding protein
+SAR0384	412488	412760	272	conserved hypothetical protein
+SAR0385	412772	412945	173	putative exported protein
+SAR0386	412912	413058	146	hypothetical protein
+SAR0389	413116	413499	383	hypothetical protein
+SAR0390	413500	413826	326	hypothetical protein
+SAR0391	413891	414760	869	hypothetical protein
+SAR0392	414774	416483	1709	hypothetical protein
+SAR0393	416793	417173	380	hypothetical protein
+SAR0394	417170	417811	641	hypothetical protein
+SAR0395	418519	418863	344	hypothetical protein
+SAR395a	418894	419547	653	hypothetical protein
+SAR0396	419600	420127	527	hypothetical protein
+SAR0397	420130	420471	341	hypothetical protein
+ahpF	420468	421037	569	putative terminase small subunit
+ahpC	421275	422282	1007	hypothetical protein
+SAR0400	422460	422861	401	hypothetical protein
+SAR0401	422979	423491	512	putative membrane protein
+SAR0401a	424449	425456	1007	hypothetical protein
+SAR0402	425462	426052	590	integrase (fragment)
+SAR0403	426413	426781	368	putative exported protein
+SAR0404	426962	427534	572	putative lipoprotein
+SAR0405	427672	427935	263	hypothetical protein
+xpt	428229	428483	254	putative membrane protein
+pbuX	428522	428731	209	hypothetical protein
+guaB	428909	429490	581	phosphoglycerate mutase family protein
+guaA	429556	429939	383	putative membrane protein
+SAR0411	430027	430134	107	hypothetical protein
+SAR0414	430210	430836	626	putative lipoprotein
+SAR0416	430909	432528	1619	hypothetical protein
+SAR0418	432643	434166	1523	alkyl hydroperoxide reductase subunit F
+SAR0419	434182	434751	569	alkyl hydroperoxide reductase subunit C
+SAR0420	435242	435997	755	nitroreductase family protein
+SAR0421	436077	437465	1388	putative sodium:dicarboxylate symporter protein
+SAR0422	437550	437651	101	hypothetical protein
+SAR0423	438408	438569	161	hypothetical protein
+SAR0424	438584	439540	956	putative DNA-binding protein
+SAR0425	439658	440320	662	hypothetical protein
+SAR0426	440463	440870	407	hypothetical protein
+set3	441383	441961	578	putative xanthine phosphoribosyltransferase
+set1	441961	443229	1268	putative xanthine permease
+set5	443267	444733	1466	putative inosine-5'-monophosphate dehydrogenase
+set4	444758	446299	1541	putative GMP synthase
+SAR0432	446829	447365	536	hypothetical protein
+SAR0433	447757	448462	705	conserved hypothetical protein (pseudogene)
+SAR0434	448771	448947	176	hypothetical protein
+SAR0435	448957	449082	125	hypothetical protein (fragment)
+SAR0436	449108	449295	187	hypothetical protein (fragment)
+SAR0437	450191	450352	161	putative transposase
+SAR0438	450752	450871	119	hypothetical protein
+SAR0439	450865	451224	359	hypothetical protein
+SAR0442	451243	452088	845	putative membrane protein
+SAR0443	452560	453240	680	conserved hypothetical protein
+SAR0444	453523	454224	701	exotoxin
+SAR0445	454512	455543	1031	exotoxin
+SAR0447	455890	456810	920	exotoxin
+SAR0448	456957	457082	125	exotoxin
+SAR0449	457171	457875	704	hypothetical protein
+SAR0450	458322	459017	695	exotoxin 3
+SAR0451	459358	460056	698	exotoxin 1
+SAR0452	460419	461102	683	exotoxin 5
+SAR0453	461180	461311	131	exotoxin 4
+SAR0454	461364	462920	1556	hypothetical protein
+SAR0455	462913	464145	1232	putative type I restriction enzyme modification
+SAR0456	464528	465226	698	putative restriction and modification system
+SAR0457	465245	466732	1487	exotoxin
+SAR0457a	466838	467146	308	putative exported protein
+SAR0458	467510	468295	785	putative exported protein
+SAR0459	468343	469116	773	putative lipoprotein
+SAR0460	469147	469949	802	putative lipoprotein
+SAR0461	469987	470757	770	putative lipoprotein (pseudogene)
+SAR0462	470789	471589	800	putative membrane protein
+SAR0463	471608	472402	794	putative lipoprotein
+SAR0464	472568	473389	821	putative lipoprotein
+SAR0465	473382	474709	1327	putative lipoprotein
+SAR0466	474706	475029	323	hypothetical protein (pseudogene)
+SAR0467	475048	475362	314	hypothetical protein
+SAR0468	475651	475845	194	hypothetical protein
+SAR0469	476030	477232	1202	putative membrane protein
+SAR0470	477501	477629	128	putative cobalamin synthesis protein
+gltA	478818	480302	1484	hypothetical protein
+gltB	480315	483020	2705	putative NADH-Ubiquinone/plastoquinone (complex
+SAR0473	483182	483544	362	hypothetical protein
+SAR0474	483773	484120	347	conserved hypothetical protein
+SAR0475	484227	484901	674	putative membrane protein
+SAR0475a	484938	485672	734	putative membrane protein
+SAR0476	485874	485963	89	conserved hypothetical protein
+dnaX	486126	487466	1340	hypothetical protein
+SAR0478	487683	488588	905	sodium:neurotransmitter symporter family
+recR	488581	489723	1142	pyridoxal-phosphate dependent enzyme
+SAR0480	490014	491039	1025	putative Cys/Met metabolism PLP-dependent
+SAR0481	491043	491702	659	ABC transporter ATP-binding protein
+SAR0482	491739	492581	842	putative transport system membrane protein
+tmk	492915	493919	1004	putative lipoprotein
+SAR0484	494106	494375	269	putative exported protein
+holB	494516	494920	404	putative membrane protein
+SAR0486	494910	495395	485	MutT domain containing protein
+SAR0487	495564	496346	782	putative acetyltransferase
+SAR0488	496343	497461	1118	putative membrane protein
+SAR0489	497576	498460	884	putative membrane protein
+SAR0490	498641	503140	4499	LysR family regulatory protein
+metG	503158	504621	1463	glutamate synthase, large subunit
+SAR0492	505439	506866	1427	glutamate synthase, small subunit
+SAR0493	506930	508570	1640	sugar-specific PTS transport system, IIBC
+SAR0494	508595	509323	728	putative glycosyl hydrolase
+veg	509760	509825	65	GntR family regulatory protein
+SAR0496	509964	510488	524	hypothetical protein
+purR	510557	512254	1697	acetyltransferase (GNAT) family protein
+yabJ	512344	512661	317	DNA polymerase III, tau subunit
+spoVG	512668	513264	596	conserved hypothetical protein
+gcaD	519424	520212	788	putative recombination protein
+prs	520236	520991	755	16S ribosomal RNA
+rplY	521423	522760	1337	23S ribosomal RNA
+SAR0503	522762	523379	617	5S ribosomal RNA
+SAR0504	523407	523736	329	putative insertion element protein
+SAR0505	523950	524876	926	putative insertion element protein
+SAR0506	524877	525680	803	Orn/Lys/Arg decarboxylase family protein
+SAR0507	525697	526044	347	putative thymidylate kinase
+SAR0508	526318	527043	725	conserved hypothetical protein
+SAR0509	527036	527284	248	putative DNA polymerase III, delta' subunit
+SAR0510	527286	528125	839	conserved hypothetical protein
+hpt	528410	530383	1973	conserved hypothetical protein
+ftsH	530414	531187	773	conserved hypothetical protein
+SAR0513	531354	531890	536	conserved hypothetical protein
+SAR0514	531901	532794	893	tetrapyrrole (corrin/porphyrin) methylase family
+folP	532894	533157	263	putative methionyl-tRNA synthetase
+folB	533468	534316	848	putative TatD related DNase
+folK	534330	535154	824	conserved hypothetical protein
+lysS	535171	535551	380	ribosomal RNA adenine dimethylase
+SAR0519	535624	535926	302	conserved hypothetical protein
+SAR0520	536269	537621	1352	conserved hypothetical protein
+SAR0521	537768	538733	965	putative pur operon repressor
+SAR0522	538883	539536	653	putative regulatory protein
+SAR0523	539847	540419	572	stage V sporulation protein G
+nupC	540419	543925	3506	putative UDP-N-acetylglucosamine
+SAR0525	543915	545441	1526	ribose-phosphate pyrophosphokinase
+SAR0526	545441	546634	1193	putative 50S ribosomal protein L25
+SAR0527	546631	546894	263	putative peptidyl-tRNA hydrolase
+clpC	546912	547304	392	putative transcription-repair coupling factor
+radA	547409	547810	401	putative polysaccharide biosynthesis protein
+SAR0530	547990	549285	1295	putative tetrapyrrole (corrin/porphyrin)
+gltX	549290	549829	539	S4 domain containing protein
+cysE	550087	552180	2093	putative cell division protein
+cysS	552594	553475	881	putative RNA binding protein
+SAR0534	553654	554586	932	conserved hypothetical protein
+yacO	554802	555605	803	putative hypoxanthine phosphoribosyltransferase
+SAR0536	555583	555948	365	putative cell division protein
+sigH	555945	556421	476	putative chaperonin
+rpmG3	556960	558447	1487	putative O-acetylserine (thiol)-lyase
+secE	565186	565974	788	dihydropteroate synthase
+nusG	565998	566753	755	dihydroneopterin aldolase
+rplK	567324	568706	1382	putative
+rplA	568810	569697	887	lysyl-tRNA synthetase
+rplJ	569701	570261	560	5S ribosomal RNA
+rplL	570468	571682	1214	putative insertion element protein
+SAR0546	571840	572301	461	putative insertion element protein
+rpoB	572320	572886	566	GntR family regulatory protein
+rpoC	572876	573883	1007	putative pyridoxine biosynthesis protein
+SAR0549	573897	576353	2456	SNO glutamine amidotransferase family protein
+rpsL	576837	578201	1364	nucleoside permease
+rpsG	578226	579299	1073	putative DNA-binding protein
+fus	579856	581310	1454	conserved hypothetical protein
+tuf	581734	582381	647	putative phosphotransferase
+SAR0554	582365	583765	1400	putative stress response-related Clp ATPase
+kbl	583758	584162	404	putative DNA repair protein
+SAR0556	584170	584916	746	putative membrane protein
+SAR0557	584916	585440	524	putative glutamyl-tRNA synthetase
+SAR0558	585521	586090	569	serine acetyltransferase
+SAR0559	586205	586348	143	cysteinyl-tRNA synthetase
+SAR0560	586404	586586	182	conserved hypothetical protein
+SAR0561	586599	587147	548	SpoU rRNA Methylase family protein
+SAR0562	587328	587750	422	conserved hypothetical protein
+SAR0563	587958	588647	689	putative DNA-binding protein
+SAR0564	588922	589422	500	50S ribosomal protein L33 type 3
+SAR0565	589465	589833	368	preprotein translocase SecE subunit
+sdrC	590008	590616	608	transcription antitermination protein
+bbp	590831	594382	3551	50S ribosomal protein L11
+SAR0568	594519	598142	3623	50S ribosomal protein L1
+SAR0569	598222	598533	311	50S ribosomal protein L10
+SAR0570	598631	599044	413	50S ribosomal protein L7/L12
+SAR0571	599110	599580	470	conserved hypothetical protein
+SAR0572	599703	601784	2081	DNA-directed RNA polymerase beta chain protein
+SAR0573	602001	603185	1184	DNA-directed RNA polymerase beta' chain protein
+SAR0574	603466	604641	1175	putative ribosomal protein
+SAR0575	604812	605999	1187	30S ribosomal protein S12
+SAR0576	606275	607153	878	30S ribosomal protein S7
+proP	607311	608948	1637	translation elongation factor G
+SAR0578	609162	610127	965	translation elongation factor Tu
+SAR0580	610462	611538	1076	putative peptidase
+SAR0581	611789	612472	683	putative 2-amino-3-ketobutyrate coenzyme A
+SAR0582	612588	613250	662	ThiJ/PfpI family protein
+SAR0583	613243	613860	617	putative L-ribulokinase
+SAR0584	613927	614397	470	conserved hypothetical protein
+SAR0585	614544	615413	869	putative aminotransferase
+ung	615433	615999	566	haloacid dehalogenase-like hydrolase
+SAR0587	616430	619150	2720	putative deoxyadenosine kinase protein
+SAR0588	619547	622960	3413	putative deoxyadenosine kinase protein
+SAR0589	623079	624551	1472	putative deaminase
+SAR0590	624677	626167	1490	putative haloacid dehalogenase-like hydrolase
+SAR0591	626449	627327	878	conserved hypothetical protein
+SAR0592	627340	628005	665	putative surface anchored protein
+SAR0593	628019	628378	359	bone sialoprotein-binding protein
+pta	628658	629416	758	putative glycosyl transferase
+SAR0595	629493	630125	632	putative glycosyl transferase
+mvaK1	630127	630675	548	conserved hypothetical protein
+mvaD	630788	631435	647	conserved hypothetical protein
+mvaK2	631938	633338	1400	conserved hypothetical protein
+SAR0599	633590	633883	293	putative glucosamine-6-phosphate isomerase
+SAR0600	633883	635259	1376	putative hexulose-6-phosphate synthase
+SAR0601	635261	636400	1139	putative 6-phospho-3-hexuloisomerase
+SAR0602	636375	636740	365	putative haloacid dehalogenase-like hydrolase
+SAR0603	636743	637012	269	putative proline/betaine transporter
+SAR0604	637213	637380	167	putative membrane protein
+SAR0607	637913	638743	830	putative AMP-binding enzyme
+SAR0608	638927	639583	656	putative ketoacyl-CoA thiolase
+SAR0609	639584	639964	380	hypothetical protein
+SAR0610	640097	640465	368	hypothetical protein
+SAR0611	640586	642070	1484	hypothetical protein
+SAR0612	642212	642664	452	conserved hypothetical protein
+adhA	642677	643441	764	putative uracil-DNA glycosylase
+SAR0614	643752	643949	197	hypothetical protein
+argS	643989	644741	752	putative membrane protein
+SAR0617	644909	645895	986	putative amino acid permease
+SAR0618	645898	646734	836	putative membrane protein
+SAR0619	647321	648241	920	putative membrane protein
+SAR0620	648246	649229	983	hypothetical protein
+SAR0621	649242	650318	1076	conserved hypothetical protein
+SAR0622	650495	650836	341	putative phosphate acetyltransferase
+SAR0623	650888	652210	1322	lipoate-protein ligase A protein
+SAR0624	652197	652637	440	mevalonate kinase
+sarA	653261	654655	1394	mevalonate diphosphate decarboxylase
+SAR0626	654659	655294	635	phosphomevalonate kinase
+SAR0627	655260	655529	269	hypothetical protein
+SAR0628	655530	656151	621	pyridine nucleotide-disulphide oxidoreductase
+SAR0629	656291	656920	629	putative DNA-binding protein
+SAR0630	657373	658311	938	putative membrane protein
+SAR0631	658521	659057	536	putative membrane protein
+SAR0632	659226	659702	476	hypothetical protein
+SAR0633	659742	661037	1295	putative membrane protein (pseudogene)
+SAR0634	661080	661586	506	putative membrane protein
+SAR0635	662085	663095	1010	aldo/keto reductase family protein
+SAR0637	663359	663787	428	conserved hypothetical protein
+SAR0638	663784	665445	1661	putative acetyltransferase
+SAR0641	665852	666487	635	putative phosphohydrolase
+SAR0642	666806	667693	887	conserved hypothetical protein
+SAR0643	667843	668793	950	alcohol dehydrogenase
+sirR	668848	669567	719	conserved hypothetical protein
+SAR0645	669551	670351	800	putative arginyl-tRNA synthetase
+tagA	670487	670993	506	putative DNA repair protein
+tagH	671155	671871	716	putative transport system lipoprotein
+tagG	672040	672828	788	FecCD transport family protein
+tagB	673078	673452	374	haloacid dehalogenase-like hydrolase
+SAR0650	674399	675328	929	putative hydrolase
+tagD	675521	675745	224	putative exported protein
+pbp4	675762	675965	203	putative membrane protein
+SAR0653	676120	676680	560	putative esterase
+SAR0654	676699	679101	2402	staphylococcal accessory regulator A
+SAR0655	679088	679513	425	putative membrane protein
+SAR0656	679510	679854	344	hypothetical protein
+fhuA	679844	681340	1496	hypothetical protein
+fhuB	681341	681823	482	phage integrase family protein
+fhuD	681820	682122	302	putative NADH-Ubiquinone/plastoquinone (complex
+SAR0660	682097	682456	359	putative membrane protein
+SAR0661	682874	684916	2042	putative membrane protein
+SAR0662	685002	686150	1148	putative NADH-Ubiquinone/plastoquinone (complex
+SAR0663	686154	686688	534	putative membrane protein
+SAR0664	687790	688719	929	putative membrane protein
+SAR0665	688716	689552	836	putative membrane protein (pseudogene)
+SAR0666	689546	690289	743	sodium/hydrogen exchanger family protein
+SAR0667	690411	691055	644	putative membrane protein
+SAR0668	691135	691887	752	putative haloacid dehydrogenase-like hydrolase
+SAR0669	692123	692887	764	ABC transporter extracellular binding protein
+SAR0670	692947	693741	794	ABC transporter permease protein
+SAR0671	694067	694900	833	ABC transporter ATP-binding protein
+SAR0672	694999	696102	1103	putative metalloregulator
+SAR0673	696099	697160	1061	putative membrane protein
+SAR0674	697223	697621	398	teichoic acid biosynthesis protein
+SAR0675	697738	699033	1295	teichoic acid ABC transporter ATP-binding
+SAR0676	699454	701181	1727	teichoic acid ABC transporter permease protein
+SAR0679	701252	701332	80	teichoic acid biosynthesis protein
+SAR0680	701540	702769	1229	putative glycosyl transferase
+SAR0681	703294	704127	833	glycerol-3-phosphate cytidylyltransferase
+SAR0682	704409	705206	797	penicillin-binding protein 4
+SAR0683	705242	706246	1004	ABC transporter ATP-binding protein
+SAR0684	706243	707259	1016	hypothetical protein
+SAR0687	707493	708461	968	putative Na+ dependent nucleoside transporter
+SAR0688	708503	709087	584	putative membrane protein
+arsR1	709080	709442	362	ferrichrome transport ATP-binding protein
+arsB1	709558	710055	497	ferrichrome transport permease
+arsC	710511	711578	1067	ferrichrome transport permease
+SAR0693	711729	712772	1043	putative dihydroxyacetone kinase
+SAR0694	713100	713528	428	putative dihydroxyacetone kinase
+SAR0695	713726	714232	506	conserved hypothetical protein
+SAR0696	714345	715268	923	hypothetical protein
+SAR0697	715284	715958	674	putative membrane protein
+SAR0698	715951	716991	1040	putative esterase
+SAR0702	717138	717899	761	hypothetical protein
+SAR0703	717889	719778	1889	putative acetyltransferase
+SAR0704	720394	721011	617	hypothetical protein
+SAR0705	721027	722034	1007	putative response regulator protein
+SAR0706	722621	723418	797	putative sensor histidine kinase protein
+SAR0710	723779	724423	644	putative ABC transporter protein
+SAR0714	725107	727259	2152	putative ABC transporter permease
+SAR0715	727339	727764	425	conserved hypothetical protein
+SAR0716	727954	728670	716	putative phosphate transport protein
+SAR0717	728670	729143	473	putative exported protein
+SAR0718	729496	730140	644	putative membrane protein
+SAR0719	730258	731124	866	AraC family regulatory protein (pseudogene)
+SAR0720	731256	732476	1220	hypothetical protein
+SAR0721	732473	732904	431	conserved hypothetical protein
+SAR0722	733183	734391	1208	conserved hypothetical protein
+cadA	734448	735122	674	hypothetical protein
+cadC	735157	735369	212	LysR family regulatory protein
+SAR0725	735689	736024	335	putative sugar efflux transporter
+SAR0726	736085	736399	314	putative membrane protein (pseudogene)
+SAR0728	736399	737688	1289	putative transposase (pseudogene)
+SAR0729	737706	738101	395	putative transposase
+SAR0730	738308	738466	158	putative membrane protein
+SAR0731	738481	738774	293	recombinase (fragment)
+SAR0732	738849	740783	1934	arsenical resistance operon repressor 1
+SAR0733	740787	741098	311	arsenical pump membrane protein 1
+SAR0734	741110	741736	626	arsenate reductase
+SAR0735	742098	743744	1646	putative membrane protein
+bacA	743899	744539	640	putative exported protein
+SAR0737	745289	745432	143	putative membrane protein
+SAR0738	745474	746334	860	putative exported protein
+SAR0739	746421	746762	341	ABC transporter ATP-binding protein
+SAR0740	746836	746967	131	putative transposase
+SAR0741	746977	747081	104	plasmid recombination enzyme (pseudogene)
+SAR0742	747622	748364	742	hypothetical protein
+SAR0743	748482	748598	116	plasmid replication initiation protein
+SAR0744	748651	748653	2	putative DNA-binding protein
+SAR0745	749717	749902	185	hypothetical protein
+SAR0746	750428	750637	209	putative membrane protein
+SAR0747	750819	751142	323	putative replication-associated protein
+norA	751371	751463	92	hypothetical protein
+SAR0749	751765	752586	821	putative replication initiation protein
+SAR0750	752711	753706	995	putative replication protein (fragment)
+SAR0751	754041	754616	575	putative membrane protein
+SAR0752	754883	756928	2045	hypothetical protein
+fruA	756943	758376	1433	putative membrane protein
+SAR0754	758443	760089	1646	LysR family regulatory protein
+SAR0755	760452	762632	2180	putative membrane protein
+SAR0756	762625	762990	365	putative resolvase
+SAR0757	763228	763605	377	putative cation exporting ATPase protein
+saeS	763700	764374	674	multicopper oxidase protein
+saeR	765037	765726	689	putative transposase
+SAR0760	765853	766296	443	probable cadmium-transporting ATPase
+SAR0761	766363	766752	389	putative cadmium efflux system accessory
+SAR0762	766890	767189	299	Tn554 transposase C
+SAR0763	767269	767811	542	putative transposase
+SAR0764	767906	768472	566	putative membrane protein
+SAR0765	768474	768932	458	putative acetyltransferase
+SAR0766	768935	769618	683	putative lipoprotein
+SAR0767	769790	770665	875	hypothetical protein
+SAR0768	770884	772515	1631	putative acetyltransferase
+SAR0769	772512	774185	1673	conserved hypothetical protein
+SAR0770	774312	774755	443	conserved hypothetical protein
+SAR0771	774982	775908	926	putative exported protein
+SAR0772	776011	776919	908	putative undecaprenol kinase
+SAR0773	776954	777241	287	ABC transporter ATP-binding protein
+SAR0774	777524	779077	1553	ABC transporter ATP-binding protein
+SAR0775	779163	780536	1373	MarR family regulatory protein
+SAR0776	780691	780975	284	putative cobalamin synthesis protein
+SAR0777	780972	781592	620	aldo/keto reductase family protein
+SAR0778	781776	782198	422	putative membrane protein
+SAR0779	782414	783580	1166	putative sodium:sulfate symporter protein
+SAR0780	783865	784329	464	putative DNA photolyase
+SAR0781	784503	784985	482	putative membrane protein
+SAR0782	785238	785999	761	putative membrane protein
+SAR0783	785996	786916	920	conserved hypothetical protein
+SAR0784	786922	788880	1958	fluoroquinolone resistance protein
+rir1	789183	790364	1181	putative exported protein
+rir2	790585	791934	1349	conserved hypothetical protein
+sstA	792148	792987	839	DeoR ramily regulatory protein
+sstB	793119	794102	983	putative phosphofructokinase
+sstC	794174	795229	1055	PTS transport system, fructose-specific IIABC
+sstD	795229	795915	686	putative N-acetylglucosamine-6-phosphate
+SAR0791	795890	796363	473	putative membrane protein
+murB	796705	797145	440	aldo/keto reductase family protein
+SAR0793	797425	798009	584	putative glucosyl transferase
+SAR0794	798108	798821	713	histidine kinase protein
+SAR0795	798825	799244	419	response regulator protein
+SAR0796	799246	799914	668	putative membrane protein
+pepT	800265	800858	593	putative lipoprotein
+SAR0798	800842	801993	1151	putative membrane protein
+SAR0799	801993	802601	608	putative radical activating enzyme
+SAR0800	802667	802873	206	putative 6-pyruvoyl tetrahydropterin synthase
+SAR0801	802961	803671	710	conserved hypothetical protein
+SAR0802	803655	804659	1004	glutamine amidotransferase class-I protein
+SAR0803	805133	807073	1940	para-aminobenzoate synthase component
+SAR0804	807351	809228	1877	putative para-aminobenzoate synthetase
+SAR0805	809240	811021	1781	putative membrane protein
+SAR0806	811242	812219	977	conserved hypothetical protein
+secA	812212	813726	1514	conserved hypothetical protein
+prfB	813966	815024	1058	putative sulfatase
+SAR0809	815183	815725	542	ABC transporter ATP-binding protein
+SAR0810	815730	815864	134	putative ATP-dependent DNA helicase
+SAR0811	816277	817194	917	ABC transporter ATP-binding protein
+uvrB	817464	818969	1505	ABC transporter permease protein
+uvrA	819309	819809	500	putative aminotransferase
+hprK	819829	820695	866	conserved hypothetical protein
+lgt	821497	821895	398	hypothetical protein
+SAR0816	821858	823963	2105	putative diacylglycerol kinase protein
+SAR0817	824083	825054	971	putative proton-dependent oligopeptide transport
+trxB	825431	826402	971	conserved hypothetical protein
+SAR0820	826389	827345	956	putative membrane protein
+SAR0821	827342	828103	761	conserved hypothetical protein
+SAR0822	828218	829246	1028	ribonucleoside-diphosphate reductase alpha
+clpP	829563	829877	314	ribonucleoside-diphosphate reductase beta chain
+SAR0824	829895	830818	923	FecCD transport family protein
+SAR0825	830945	831463	518	FecCD transport family protein
+SAR0826	831583	832461	878	ABC transporter ATP-binding protein
+gapR	832615	832935	320	lipoprotein
+gap1	833360	834484	1124	hypothetical protein
+pgk	834672	835898	1226	putative UDP-N-acetylenolpyruvoylglucosamine
+tpiA	835912	836406	494	hypothetical protein
+pgm	836424	837185	761	putative lipoprotein
+eno	837381	838451	1070	conserved hypothetical protein
+SAR0833	838769	839824	1055	putative glycerate kinase
+secG	839988	840629	641	putative peptidase T
+est	840773	841639	866	putative membrane protein
+rnr	842003	843085	1082	putative membrane protein
+smpB	843078	843752	674	putative membrane protein
+tmRNA	843813	844385	572	putative glycosyl transferase
+SAR0839	844799	847330	2531	putative membrane protein
+SAR0840	847645	847716	71	conserved hypothetical protein
+SAR0841	849524	850363	839	putative helicase
+clfA	850537	851187	650	conserved hypothetical protein
+SAR0845	851184	851420	236	putative S30EA family ribosomal protein
+SAR0846	851683	853674	1991	preprotein translocase SecA subunit
+nuc	853682	856528	2846	peptide chain release factor 2
+cspC	857139	858071	932	putative exported protein
+SAR0849	858077	858919	842	putative phosphohydrolase
+SAR0850	858927	859412	485	putative membrane protein
+SAR0851	859420	860859	1439	excinuclease ABC subunit B
+SAR0852	860926	861861	935	excinuclease ABC subunit A
+SAR0853	862629	863540	911	HPr kinase/phosphatase
+SAR0854	863537	864532	995	prolipoprotein diacylglyceryl transferase
+SAR0855	864641	865585	944	putative acetyltransferase
+SAR0856	866154	866741	587	conserved hypothetical protein
+SAR0857	866923	868557	1634	putative thioredoxin reductase
+SAR0858	868764	869666	902	conserved hypothetical protein
+SAR858a	870369	870998	629	conserved hypothetical protein
+SAR0859	871492	872505	1013	conserved hypothetical protein
+SAR0860	872558	873568	1010	putative ATP-dependent Clp protease proteolytic
+SAR0861	873707	874897	1190	putative malolactic enzyme
+SAR0862	875019	875780	761	conserved hypothetical protein
+SAR0863	875783	877300	1517	putative exported protein
+gcvH	877430	878734	1304	glycolytic operon regulator
+SAR0865	879071	879529	458	glyceraldehyde 3-phosphate dehydrogenase 1
+SAR0867	879596	879829	233	phosphoglycerate kinase
+SAR0868	879958	880698	740	triosephosphate isomerase
+SAR0870	880732	883104	2372	putative 2,3-bisphosphoglycerate-independent
+SAR0871	883126	883590	464	putative enolase
+SAR0872	883681	884039	358	putative membrane protein
+SAR0874	884556	885170	614	putative protein-export membrane protein
+SAR0875	885458	886186	728	putative carboxylesterase
+SAR0876	886785	887306	521	putative ribonuclease R
+SAR0877	887445	887975	530	putative tmRNA-binding protein
+csdB	888239	891328	3089	putative membrane protein
+SAR0879	891549	893056	1507	putative lipoprotein
+SAR0880	893407	894432	1025	putative membrane protein
+SAR0881	894763	895320	557	putative acetyltransferase
+SAR0882	895661	896347	686	clumping factor
+SAR0883	896704	896904	200	putative exported protein (pseudogene)
+SAR0884	897401	897619	218	putative exported protein
+SAR0885	897681	897965	284	putative exported protein
+SAR0886	898053	898622	569	thermonuclease precursor
+lipA	898810	898998	188	putative cold shock protein
+SAR0888	899027	899287	260	hypothetical protein
+SAR0889	899628	899831	203	hypothetical protein
+SAR0890	899828	900064	236	putative exported protein
+SAR0891	900289	900870	581	putative membrane protein
+SAR0892	900943	901560	617	putative membrane protein
+SAR0893	901716	902210	494	hypothetical protein
+dltA	902418	902468	50	hypothetical protein
+dltB	902609	903031	422	phosphoglycerate mutase family protein
+dltC	903179	903895	716	putative LysE type translocator protein
+dltD	903978	904517	539	hypothetical protein
+SAR0898	904667	904987	320	hypothetical protein
+SAR0899	905131	905487	356	OsmC-like protein
+SAR0900	905645	906025	380	putative type I 3-dehydroquinase
+SAR0901	906203	907081	878	nitroreductase family protein
+SAR0902	907672	908058	386	putative thioredoxin
+SAR0903	908051	908347	296	conserved hypothetical protein
+pepA	908597	909622	1025	glycine cleavage system H protein
+SAR0905	909615	910310	695	conserved hypothetical protein
+SAR0906	910328	911149	821	hypothetical protein
+SAR0907	911965	912159	194	putative thioredoxin
+mnhG	912393	913244	851	ABC transporter ATP-binding protein
+mnhF	913572	914333	761	ABC transporter permease protein
+mnhE	914431	915738	1307	putative lipoprotein
+mnhD	915853	917094	1241	conserved hypothetical protein
+mnhC	917084	917548	464	putative membrane protein
+mnhB	917699	919096	1397	ABC transporter ATP-binding protein
+mnhA	919428	919742	314	conserved hypothetical protein
+SAR0915	920111	921151	1040	putative selenocysteine lyase
+SAR0916	921165	922232	1067	NifU-like protein
+SAR0917	922532	923380	848	conserved hypothetical protein
+SAR0918	923393	924220	827	putative membrane protein
+rocD	924247	925566	1319	putative membrane protein
+SAR0920	925650	926567	917	putative dioxygenase
+glpQ	926696	927079	383	conserved hypothetical protein
+argH	927158	927424	266	putative membrane protein
+argG	927522	927956	434	putative 5'-nucleotidase
+SAR0924	927956	928735	779	putative lipoic acid synthetase
+SAR0925	928768	929727	959	conserved hypothetical protein
+spsA	930138	930290	152	conserved hypothetical protein
+spsB	930306	931763	1457	conserved hypothetical protein
+SAR0928	931760	932974	1214	haloacid dehalogenase-like hydrolase
+SAR0929	932992	933228	236	D-isomer specific 2-hydroxyacid dehydrogenase
+SAR0930	933225	934400	1175	putative membrane protein
+SAR0931	934662	934904	242	D-alanine-D-alanyl carrier protein ligase
+SAR0932	935005	935328	323	putative activated D-alanine transport protein
+SAR0933	935388	936452	1064	D-alanyl carrier protein
+SAR0934	936769	937005	236	putative lipoteichoic acid biosynthesis protein
+SAR0935	937018	937377	359	conserved hypothetical protein
+SAR0936	937831	939039	1208	conserved hypothetical protein
+SAR0937	939170	940645	1475	putative pyridine nucleotide-disulphide
+clpB	941056	942372	1316	conserved hypothetical protein
+SAR0939	942391	942765	374	conserved hypothetical protein
+SAR0940	942821	943975	1154	putative pyridine nucleotide-disulphide
+SAR0941	944238	944594	356	cytosol aminopeptidase family protein
+SAR0942	944572	944865	293	putative transporter protein
+SAR0943	944865	945344	479	conserved hypothetical protein
+SAR0944	945346	946842	1496	hypothetical protein
+SAR0945	946835	947176	341	Na+/H+ antiporter subunit
+fabH	947176	947604	428	Na+/H+ antiporter subunit
+fabF	947597	950002	2405	Na+/H+ antiporter subunit
+SAR0948	950133	950516	383	Na+/H+ antiporter subunit
+oppB	950580	951173	593	Na+/H+ antiporter subunit
+oppC	951588	951965	377	Na+/H+ antiporter subunit
+oppD	952327	953454	1127	Na+/H+ antiporter subunit
+oppF	953762	954952	1190	conserved hypothetical protein
+SAR0953	955061	956305	1244	putative cyclophilin type peptidyl-prolyl
+SAR0955	956700	957629	929	putative S1 RNA binding domain
+appD	957871	959250	1379	NADH:flavin oxidoreductase / NADH oxidase family
+appF	959240	960445	1205	ornithine aminotransferase
+appC	960796	962127	1331	putative NAD-specific glutamate dehydrogenase
+SAR0961	962453	963028	575	putative glycerophosphoryl diester
+SAR0962	963033	963557	524	putative argininosuccinate lyase
+SAR0963	963573	964148	575	putative argininosuccinate synthase
+trpS	964308	967784	3476	putative glucose-6-phosphate isomerase
+SAR0965	967785	971438	3653	putative membrane protein
+SAR0966	971604	972506	902	putative signal peptidase Ia
+SAR0967	972832	973221	389	signal peptidase Ib
+pepB	973598	975244	1646	conserved hypothetical protein
+SAR0969	975316	976632	1316	conserved hypothetical protein
+SAR0970	976684	977508	824	fumarylacetoacetate (FAA) hydrolase family
+SAR0971	977622	977930	308	putative membrane protein
+SAR0972	977943	978068	125	putative transposase
+SAR0973	978510	980324	1814	coenzyme A disulfide reductase
+SAR0974	980527	983136	2609	putative haloacid dehalogenase-like hydrolase
+SAR0975	983195	984064	869	conserved hypothetical protein
+SAR0976	984175	985320	1145	hypothetical protein
+SAR0977	985304	985945	641	putative membrane protein
+fabI	985938	987056	1118	putative ATPase subunit of an ATP-dependent
+SAR0979	987040	987555	515	LysR family regulatory protein
+SAR0980	987866	988300	434	hypothetical protein
+SAR0981	988557	988742	185	hypothetical protein
+SAR0982	989038	989979	941	putative membrane protein
+SAR0983	989991	991235	1244	conserved hypothetical protein
+SAR0985	991290	991661	371	putative exported protein
+SAR0986	991904	992830	926	putative membrane protein
+SAR0987	992830	993900	1070	putative 3-oxoacyl-[acyl-carrier-protein]
+murE	993916	994998	1082	3-oxoacyl-[acyl-carrier-protein] synthase II
+SAR0989	994988	995929	941	putative membrane protein
+prfC	995948	997603	1655	putative oligopeptide transport system permease
+SAR0991	997815	998060	245	putative oligopeptide transport system permease
+SAR0992	998073	999020	947	putative oligopeptide transport ATP-binding
+SAR0993	1000655	1001641	986	putative oligopeptide transport ATP-binding
+SAR0994	1001644	1002624	980	transport system extracellular binding
+SAR0995	1002617	1003267	650	transport system extracellular binding
+SAR0996	1003279	1004160	881	putative transposase
+SAR0997	1004249	1005037	788	putative oligopeptide transport ATP-binding
+SAR0998	1005258	1005815	557	putative oligopeptide transport ATP-binding
+SAR0999	1006111	1007757	1646	putative oligopeptide transport system permease
+SAR1000	1007784	1008773	989	putative oligopeptide transport system permease
+SAR1001	1009068	1009463	395	putative transposase
+SAR1002	1009834	1010553	719	putative insertion element protein
+SAR1003	1010674	1011660	986	putative transposase
+SAR1004	1011708	1013516	1808	putative tryptophanyl-tRNA synthetase
+SAR1005	1013976	1014782	806	conserved hypothetical protein
+SAR1006	1014805	1015170	365	regulatory protein
+SAR1007	1015274	1015867	593	hypothetical protein
+SAR1010	1016053	1016400	347	putative oligopeptidase
+SAR1011	1016417	1017052	635	conserved hypothetical protein
+SAR1012	1017069	1017878	809	protozoan/cyanobacterial globin family protein
+SAR1013	1017875	1018729	854	conserved hypothetical protein
+SAR1014	1018750	1020135	1385	conserved hypothetical protein
+SAR1015	1020145	1021989	1844	conserved hypothetical protein
+SAR1016	1022267	1023037	770	conserved hypothetical protein
+SAR1017	1023233	1024318	1085	putative RNA pseudouridylate synthase
+SAR1018	1024660	1026228	1568	putative divalent cation transport protein
+menB	1026371	1027129	758	putative cation transport protein
+sspC	1027295	1028020	725	enoyl-[acyl-carrier-protein] reductase [NADH]
+sspB	1028022	1028873	851	putative membrane protein
+sspA	1029169	1029300	131	sodium:alanine symporter family protein
+SAR1023	1029615	1030124	509	conserved hypothetical protein
+SAR1025	1030237	1031427	1190	hypothetical protein
+atl	1031405	1032580	1175	hypothetical protein
+SAR1027	1033012	1034496	1484	transposase (fragment)
+SAR1028	1034486	1034737	251	conserved hypothetical protein
+SAR1029	1034737	1036299	1562	putative membrane protein
+fmt	1036601	1037404	803	conserved hypothetical protein
+qoxD	1037638	1039947	2309	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-dia
+qoxC	1039964	1041322	1358	hypothetical protein
+qoxB	1041458	1042972	1514	peptide chain release factor 3
+qoxA	1043461	1044030	569	putative membrane protein
+SAR1035	1044231	1044458	227	putative protease
+folD	1044539	1045525	986	putative sodium transport protein
+purE	1045724	1045900	176	putative 5'-nucleotidase
+purK	1045915	1046517	602	putative regulatory protein
+purC	1046697	1046876	179	conserved hypothetical protein
+SAR1041	1047536	1047817	281	putative lipoate-protein ligase A
+purQ	1047861	1049825	1964	hypothetical protein
+purL	1049828	1050148	320	putative membrane protein
+purF	1050145	1050786	641	hypothetical protein
+purM	1050874	1051164	290	putative exported protein
+purN	1051201	1051308	107	putative membrane protein
+purH	1051505	1051792	287	putative exported protein
+purD	1051798	1053278	1480	ABC transporter ATP-binding protein
+SAR1049	1053367	1053723	356	putative membrane protein
+SAR1050	1054214	1055173	959	hypothetical protein
+SAR1051	1055220	1055336	116	hypothetical protein
+SAR1052	1055415	1055630	215	putative glycosyl transferases (pseudogene)
+SAR1053	1055795	1056346	551	putative membrane protein
+SAR1054	1056398	1057336	938	transport system extracellular binding
+SAR1055	1057509	1058879	1370	hypothetical protein
+ptsH	1058866	1060539	1673	putative membrane protein
+ptsI	1060526	1061329	803	acetyltransferase (GNAT) family protein
+SAR1058	1061322	1062143	821	UbiA prenyltransferase family protein
+SAR1059	1062379	1062708	329	putative chorismate binding enzyme
+SAR1060	1062746	1063927	1181	putative menaquinone biosynthesis bifunctional
+SAR1061	1064009	1065082	1073	putative hydrolase
+SAR1063	1065610	1066764	1154	putative naphthoate synthase
+SAR1064	1066959	1067957	998	hypothetical protein
+SAR1065	1068123	1068542	419	cysteine protease precursor
+SAR1066	1068750	1072523	3773	glutamyl endopeptidase precursor
+pdhA	1072751	1073185	434	putative aminotransferase
+pdhB	1073341	1073811	470	putative membrane protein (pseudogene)
+pdhC	1073859	1075085	1226	MarR family regulatory protein
+pdhD	1075526	1076719	1193	bifunctional autolysin precursor
+SAR1071	1077062	1077352	290	acetyltransferase (GNAT) family protein
+SAR1072	1077349	1077954	605	conserved hypothetical protein
+SAR1073	1077944	1079932	1988	putative exported protein
+SAR1074	1079932	1081032	1100	autolysis and methicillin resistant-related
+SAR1075	1081604	1081921	317	putative quinol oxidase polypeptide IV
+SAR1076	1082761	1083621	860	putative quinol oxidase polypeptide III
+SAR1077	1083822	1084304	482	putative quinol oxidase polypeptide I
+SAR1078	1084291	1085415	1124	putative quinol oxidase polypeptide II
+SAR1079	1085419	1086123	704	putative exported protein
+SAR1080	1086123	1086386	263	FolD bifunctional protein [includes:
+SAR1081	1086388	1087059	671	putative phosphoribosylaminoimidazole
+SAR1082	1087052	1089241	2189	putative phosphoribosylaminoimidazole
+SAR1083	1089220	1090704	1484	putative
+SAR1084	1090697	1091725	1028	conserved hypothetical protein
+SAR1085	1091728	1092294	566	putative phosphoribosylformylglycinamidine
+SAR1086	1092309	1093787	1478	putative phosphoribosylformylglycinamidine
+SAR1087	1093809	1095056	1247	putative amidophosphoribosyltransferase
+SAR1088	1095324	1096145	821	putative phosphoribosylformylglycinamidine
+ctaA	1096123	1097523	1400	putative phosphoribosylglycinamide
+ctaB	1097538	1098113	575	putative bifunctional purine biosynthesis
+SAR1091	1098697	1098831	134	putative phosphoribosylamine--glycine ligase
+SAR1092	1098983	1100278	1295	putative cobalt transport protein
+SAR1093	1100703	1101875	1172	ABC transporter ATP-binding protein
+SAR1094	1101929	1102471	542	putative membrane protein
+SAR1095	1102625	1102891	266	hypothetical protein
+SAR1096	1102894	1104612	1718	putative membrane protein
+SAR1097	1104849	1105082	233	conserved hypothetical protein
+coaD	1105280	1106641	1361	hypothetical protein
+SAR1099	1106638	1107657	1019	histidine-containing phosphocarrier protein
+SAR1100	1107790	1108452	662	phosphoenolpyruvate-protein phosphotransferase
+rpmF	1108800	1110497	1697	putative glutaredoxin
+isdB	1110497	1110715	218	putative cytochrome ubiquinol oxidase
+isdA	1111197	1111748	551	putative membrane protein
+isdC	1112113	1112739	626	putative potassium transport protein
+isdD	1112910	1114022	1112	conserved hypothetical protein
+isdE	1114026	1115003	977	conserved hypothetical protein
+isdF	1115094	1116386	1292	putative polypeptide deformylase 2
+srtB	1116390	1117796	1406	putative lipoprotein
+SAR1109	1117967	1118242	275	putative pyruvate dehydrogenase E1 component,
+SAR1109a	1118386	1118925	539	putative pyruvate dehydrogenase E1 component,
+SAR1110	1118938	1120032	1094	dihydrolipoamide acetyltransferase component of
+pheS	1120025	1120822	797	dihydrolipoamide dehydrogenase
+pheT	1120828	1121637	809	conserved hypothetical protein
+SAR1113	1121637	1122710	1073	putative DNA-binding protein
+SAR1114	1122784	1123803	1019	putative ABC transport ATP-binding protein
+SAR1115	1124086	1124505	419	putative ABC transport system permease protein
+SAR1116	1124587	1125939	1352	putative ABC transport system permease protein
+SAR1117	1126123	1126737	614	ABC transporter extracellular binding protein
+trxA	1126894	1127721	827	putative membrane protein
+uvrC	1127875	1128066	191	putative membrane protein
+sdhC	1128168	1130015	1847	putative manganese transport protein
+sdhA	1130154	1130321	167	conserved hypothetical protein
+sdhB	1130323	1130805	482	inositol monophosphatase family protein
+murI	1130946	1131221	275	putative membrane protein
+SAR1124	1131535	1132761	1226	BipA family GTPase
+SAR1125	1133314	1136766	3452	conserved hypothetical protein
+SAR1126	1137034	1137945	911	conserved hypothetical protein
+SAR1127	1138396	1139307	911	conserved hypothetical protein
+SAR1129	1139332	1139793	461	putative cell division protein
+fib	1140120	1141157	1037	putative pyruvate carboxylase
+SAR1131	1141173	1141607	434	putative heme A synthase
+SAR1132	1141674	1142603	929	putative protoheme IX farnesyltransferase
+SAR1133	1142842	1143096	254	putative membrane protein
+SAR1133a	1143099	1143488	389	putative membrane protein
+SAR1134	1143558	1144100	542	conserved hypothetical protein
+hla	1144102	1144584	482	putative exported protein
+SAR1137	1144646	1145785	1139	conserved hypothetical protein
+SAR1138	1145912	1146469	557	conserved hypothetical protein
+SAR1139	1146549	1146722	173	putative methylase
+SAR1140	1146876	1148834	1958	putative phosphopantetheine adenylyltransferase
+SAR1141	1149036	1150100	1064	conserved hypothetical protein
+otc	1150309	1150992	683	conserved hypothetical protein
+SAR1143	1150992	1152068	1076	50S ribosomal protein L32
+SAR1144	1152065	1152943	878	iron-regulated heme-iron binding protein
+SAR1146	1152953	1153921	968	iron-regulated heme-iron binding protein
+SAR1147	1153983	1154717	734	putative surface anchored protein
+SAR1148	1154736	1155059	323	putative membrane protein
+SAR1150	1155096	1155203	107	putative transport system extracellular binding
+SAR1151	1155443	1156183	740	iron/heme permease
+SAR1152	1156564	1157622	1058	sortase B
+SAR1153	1157622	1160024	2402	conserved hypothetical protein
+SAR1154	1160194	1161132	938	hypothetical protein
+SAR1155	1161508	1161774	266	SpoU rRNA Methylase family protein
+SAR1156	1161775	1162296	521	putative phenylalanyl-tRNA synthetase alpha
+pbpA	1162369	1164081	1712	putative phenylalanyl-tRNA synthetase beta
+mraY	1164091	1166439	2348	putative ribonuclease
+murD	1166612	1166926	314	conserved hypothetical protein
+SAR1160	1167250	1169031	1781	putative membrane protein
+ftsA	1169355	1169969	614	DNA polymerase X family protein
+ftsZ	1170021	1171787	1766	MutS family DNA mismatch repair protein
+SAR1163	1171787	1172602	815	thioredoxin
+SAR1164	1172841	1173641	800	putative excinuclease ABC subunit C
+SAR1165	1173653	1174240	587	putative succinate dehydrogenase cytochrome
+SAR1166	1174233	1174736	503	putative succinate dehydrogenase flavoprotein
+SAR1167	1174866	1175033	167	putative succinate dehydrogenase iron-sulfur
+SAR1168	1175227	1175544	317	putative glutamate racemase
+ileS	1175892	1176277	385	conserved hypothetical protein
+SAR1170	1176949	1177455	506	conserved hypothetical protein
+SAR1171	1177712	1178209	497	hypothetical protein
+lspA	1178361	1178711	350	putative exported protein
+SAR1173	1178795	1179019	224	hypothetical protein (pseudogene)
+pyrR	1178960	1179145	185	putative membrane protein
+pyrP	1179346	1179594	248	fibrinogen-binding protein precursor
+pyrB	1179755	1179988	233	putative exported protein
+pyrC	1180442	1181062	620	hypothetical protein
+pyrAA	1182069	1182215	146	putative membrane protein
+pyrAB	1182199	1182399	200	putative membrane protein
+pyrF	1182701	1184347	1646	hypothetical protein
+pyrE	1184717	1185433	716	alpha-hemolysin precursor (pseudogene)
+SAR1182	1185542	1186267	725	hypothetical protein
+SAR1183	1186377	1187102	725	hypothetical protein
+SAR1184	1187532	1188533	1001	putative transposase
+SAR1185	1188556	1189488	932	exotoxin
+SAR1186	1189659	1191215	1556	exotoxin
+SAR1187	1191522	1191749	227	exotoxin
+priA	1192065	1193012	947	ornithine carbamoyltransferase
+SAR1189	1193259	1193456	197	putative carbamate kinase
+SAR1190	1194355	1194489	134	putative membrane protein
+def	1194622	1195308	686	putative membrane protein
+SAR1192	1195416	1195856	440	putative membrane protein
+SAR1193	1196051	1197664	1613	putative DNA-binding protein
+SAR1194	1197808	1198239	431	antibacterial protein
+SAR1195	1198255	1199190	935	putative haloacid dehalogenase-like hydrolase
+pknB	1199204	1199605	401	acetyltransferase (GNAT) family protein
+SAR1197	1199586	1201820	2234	conserved hypothetical protein
+SAR1198	1202112	1203077	965	conserved hypothetical protein
+SAR1199	1203079	1204428	1349	MraW methylase family protein
+rpmB	1204441	1205763	1322	putative cell division protein
+SAR1201	1205869	1207275	1406	penicillin-binding protein 1
+SAR1202	1207308	1208480	1172	phospho-N-acetylmuramoyl-pentapeptide-transfera
+recG	1208738	1209529	791	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+SAR1204	1209547	1210221	674	putative cell division protein
+SAR1205	1210218	1210781	563	putative cell division protein
+fabD	1210793	1211083	290	cell division protein FtsZ
+fabG	1211166	1211972	806	conserved hypothetical protein
+acpP	1211996	1212592	596	conserved hypothetical protein
+SAR1209	1212813	1215566	2753	hypothetical protein
+SAR1210	1215677	1216624	947	putative membrane protein
+SAR1211	1216898	1217695	797	conserved hypothetical protein
+SAR1212	1217944	1218435	491	conserved hypothetical protein
+ffh	1218435	1219352	917	isoleucyl-tRNA synthetase
+rpsP	1219754	1220281	527	putative transposase
+rimM	1220499	1221806	1307	glyoxalase/bleomycin resistance
+trmD	1221834	1222715	881	lipoprotein signal peptidase
+rplS	1222733	1224007	1274	putative RNA pseudouridylate synthase
+SAR1218	1224009	1225109	1100	putative pyrimidine operon regulatory protein
+SAR1219	1225102	1228275	3173	putative uracil permease
+rnhB	1228382	1229077	695	putative aspartate carbamoyltransferase
+SAR1221	1229077	1229688	611	putative dihydroorotase
+SAR1222	1229718	1229930	212	putative carbamoyl-phosphate synthase,
+lytN	1230367	1230768	401	putative carbamoyl-phosphate synthase,
+fmhC	1231031	1232728	1697	putative orotidine 5'-phosphate decarboxylase
+SAR1225	1233003	1233626	623	putative orotate phosphoribosyltransferase
+topA	1233626	1233844	218	hypothetical protein
+SAR1227	1234060	1235259	1199	conserved hypothetical protein
+SAR1228	1235259	1237667	2408	conserved hypothetical protein
+hslV	1238170	1239123	953	putative guanylate kinase
+SAR1230	1239286	1239564	278	conserved hypothetical protein
+codY	1239788	1240276	488	putative flavoprotein
+rpsB	1240269	1241204	935	primosomal protein n'
+tsf	1241201	1242508	1307	putative lipoprotein
+pyrH	1242511	1243605	1094	putative membrane protein
+frr	1243612	1244355	743	putative polypeptide deformylase
+uppS	1244352	1246346	1994	methionyl-tRNA formyltransferase
+SAR1237	1246574	1247449	875	hypothetical protein
+SAR1238	1247450	1248094	644	conserved hypothetical protein
+proS	1248101	1248742	641	putative protein phosphatase
+polC	1249123	1249311	188	serine/threonine-protein kinase
+SAR1241	1249754	1250128	374	conserved hypothetical protein
+nusA	1250143	1251789	1646	putative ribulose-phosphate 3-epimerase
+SAR1243	1251979	1254039	2060	conserved hypothetical protein
+SAR1244	1254257	1254814	557	50S ribosomal protein L28
+infB	1254819	1255805	986	conserved hypothetical protein
+rbfA	1255798	1256724	926	conserved hypothetical protein
+SAR1247	1256711	1257451	740	ATP-dependent DNA helicase
+SAR1248	1257757	1257990	233	conserved hypothetical protein
+rpsO	1258106	1258837	731	putative fatty acid synthesis protein
+pnpA	1258984	1262550	3566	putative malonyl CoA-acyl carrier protein
+SAR1251	1262550	1263800	1250	3-oxoacyl-[acyl-carrier protein] reductase
+SAR1252	1263787	1264119	332	acyl carrier protein
+SAR1253	1264145	1265512	1367	putative ribonuclease III
+SAR1254	1265947	1266222	275	putative chromosome partition protein
+SAR1255	1266410	1266913	503	putative cell division protein
+SAR1256	1266913	1267650	737	putative DNA-binding protein
+SAR1257	1267753	1268103	350	signal recognition particle protein
+SAR1258	1268347	1270953	2606	30S ribosomal protein S16
+pgsA	1271354	1272238	884	16S rRNA processing protein
+SAR1260	1272222	1272989	767	putative tRNA (guanine-7-)-methyltransferase
+recA	1273098	1274264	1166	50S ribosomal protein L19
+SAR1262	1274286	1275194	908	putative membrane protein
+SAR1263	1275421	1276539	1118	putative GTPase protein
+SAR1264	1276567	1277811	1244	putative ribonuclease HII
+SAR1265	1277983	1278855	872	putative CoA synthetase protein
+SAR1266	1279035	1281104	2069	putative succinyl-CoA ligase
+SAR1267	1281260	1282567	1307	putative cell wall hydrolase
+SAR1268	1282985	1283881	896	FemAB family protein
+SAR1269	1283878	1284423	545	SMF family protein
+SAR1270	1284489	1285892	1403	DNA topoisomerase I
+mutS	1285917	1286690	773	conserved hypothetical protein
+mutL	1287032	1287799	767	putative integrase/recombinase
+glpP	1287981	1288862	881	putative ATP-dependent protease
+SAR1273a	1288999	1289721	722	putative ATP-dependent protease ATP-binding
+glpF	1289740	1290294	554	putative regulatory protein
+glpK	1290667	1291437	770	30S ribosomal protein S2
+glpD	1291444	1292226	782	elongation factor Ts
+SAR1277	1292438	1293724	1286	putative uridylate kinase
+miaA	1293744	1295447	1703	ribosome recycling factor
+SAR1279	1295705	1300021	4316	undecaprenyl pyrophosphate synthetase
+SAR1280	1300311	1300778	467	putative phosphatidate cytidylyltransferase
+SAR1281	1300799	1301974	1175	putative membrane protein
+SAR1282	1301995	1302279	284	prolyl-tRNA synthetase
+glnR	1302276	1302593	317	DNA polymerase III PolC-type
+glnA	1302598	1304715	2117	conserved hypothetical protein
+SAR1285	1305102	1305452	350	putative N utilization substance protein A
+SAR1288	1305622	1306539	917	conserved hypothetical protein
+SAR1289	1306554	1307525	971	putative ribosomal protein
+SAR1290	1307640	1307909	269	translation initiation factor IF-2
+SAR1291	1308278	1310374	2096	putative ribosome-binding factor A
+SAR1292	1310610	1312283	1673	putative tRNA pseudouridine synthase B
+SAR1293	1312540	1314909	2369	putative riboflavin biosynthesis protein
+SAR1294	1314914	1315627	713	30S ribosomal protein S15
+SAR1295	1315658	1316923	1265	polyribonucleotide nucleotidyltransferase
+SAR1296	1316923	1318209	1286	conserved hypothetical protein
+SAR1297	1318209	1318913	704	putative DNA translocase (FtsK/SpoIIIE family
+SAR1298	1319018	1319845	827	conserved hypothetical protein
+SAR1299	1319864	1320256	392	conserved hypothetical protein
+SAR1300	1320290	1320868	578	putative protease
+SAR1302	1321093	1322244	1151	putative short chain dehydrogenase
+SAR1303	1322409	1323452	1043	putative membrane protein
+SAR1304	1323806	1325365	1559	putative DNA-binding protein
+SAR1305	1325661	1325831	170	putative
+SAR1306	1326050	1326847	797	conserved hypothetical protein
+SAR1311	1326987	1328747	1760	recombinase A
+SAR1312	1328748	1329614	866	putative exported protein
+SAR1313	1329709	1330002	293	hypothetical protein
+SAR1314	1330136	1331680	1544	conserved hypothetical protein
+SAR1315	1331681	1332046	365	putative pyruvate flavodoxin/ferredoxin
+SAR1316	1332073	1332564	491	conserved hypothetical protein
+SAR1317	1332867	1335485	2618	conserved hypothetical protein
+SAR1318	1335498	1337507	2009	conserved hypothetical protein
+SAR1319	1337522	1338055	533	conserved hypothetical protein
+SAR1320	1338092	1338190	98	putative membrane protein
+SAR1321	1338530	1339348	818	DNA mismatch repair protein MutS
+SAR1322	1339478	1340974	1496	DNA mismatch repair protein MutL
+SAR1323	1341084	1342805	1721	putative glycerol uptake operon antiterminator
+SAR1324	1342955	1343869	914	hypothetical protein
+SAR1325	1343887	1344822	935	putative glycerol uptake facilitator protein
+SAR1325b	1344837	1345070	233	glycerol kinase
+SAR1326	1345292	1345768	476	aerobic glycerol-3-phosphate dehydrogenase
+SAR1327	1345880	1347118	1238	putative hydrolase
+SAR1328	1347137	1348375	1238	putative tRNA delta 2-isopentenylpyrophosphate
+SAR1329	1348619	1348987	368	conserved hypothetical protein
+SAR1330	1349006	1350346	1340	putative glutathione peroxidase
+SAR1331	1350840	1351037	197	conserved hypothetical protein
+SAR1332	1351329	1351856	527	conserved hypothetical protein
+SAR1333	1352458	1352814	356	glutamine synthetase repressor
+nucI	1352870	1353460	590	glutamine synthetase
+SAR1335	1353467	1354453	986	hypothetical protein
+SAR1336	1354503	1356350	1847	putative transposase (pseudogene)
+SAR1337	1356355	1357713	1358	putative lipoprotein
+SAR1338	1357767	1360262	2495	putative exported protein
+thrC	1360297	1360680	383	putative exported protein
+thrB	1360692	1360952	260	putative membrane protein
+SAR1341	1360957	1362012	1055	FtsK/SpoIIIE family protein
+SAR1342	1362073	1363098	1025	conserved hypothetical protein
+SAR1343	1363340	1363642	302	putative membrane protein
+SAR1344	1363656	1363976	320	putative membrane protein
+rpmG2	1364127	1364420	293	putative membrane protein
+SAR1346	1365097	1365309	212	conserved hypothetical protein
+SAR1347	1365606	1365812	206	hypothetical protein
+SAR1348	1367017	1367202	185	conserved hypothetical protein
+dinR	1367414	1368361	947	hypothetical protein
+SAR1350	1368788	1369204	416	conserved hypothetical protein
+SAR1351	1369635	1370418	783	hypothetical protein
+SAR1352	1370725	1370976	251	putative DNA-binding protein
+SAR1353	1371181	1371702	521	putative transposase
+SAR1355	1371704	1371901	197	hypothetical protein
+SAR1356	1372328	1372645	317	putative insertion sequence protein
+SAR1357	1372972	1373169	197	hypothetical protein
+SAR1358	1373314	1373487	173	hypothetical protein
+SAR1359	1373498	1373692	194	hypothetical protein
+mscL	1373905	1374138	233	hypothetical protein
+opuD1	1374311	1374436	125	hypothetical protein
+citB	1374449	1374697	248	hypothetical protein
+SAR1363	1374848	1375126	278	hypothetical protein
+SAR1364	1375139	1375438	299	hypothetical protein
+SAR1365	1375435	1375572	137	hypothetical protein
+grlB	1375775	1375975	200	hypothetical protein
+grlA	1375982	1376179	197	hypothetical protein
+SAR1368	1376455	1376565	110	hypothetical protein
+SAR1369	1376726	1377751	1025	hypothetical protein
+SAR1370	1378021	1378218	197	hypothetical protein
+SAR1371	1378275	1379756	1481	hypothetical protein
+mprF	1379930	1380838	908	hypothetical protein
+msrA1	1380807	1381538	731	conserved hypothetical protein
+SAR1374	1381542	1382633	1091	hypothetical protein
+SAR1375	1382630	1383136	506	putative cardiolipin synthase
+SAR1376	1383249	1383437	188	ABC transporter ATP-binding protein
+SAR1377	1383576	1384109	533	putative membrane protein
+SAR1378	1384252	1385106	854	sensor kinase protein
+SAR1379	1385422	1386012	590	response regulator
+trpE	1386066	1387460	1394	putative membrane protein
+trpG	1387639	1388919	1280	thermonuclease
+trpC	1388925	1389986	1061	putative exported protein
+trpF	1389988	1390902	914	hypothetical protein
+trpB	1390960	1391763	803	putative aspartate kinase
+trpA	1392055	1392369	314	putative homoserine dehydrogenase
+femA	1392588	1394042	1454	threonine synthase
+femB	1394246	1395763	1517	homoserine kinase
+SAR1391	1395854	1396003	149	haloacid dehalogenase-like hydrolase
+SAR1392	1396457	1396726	269	hypothetical protein
+SAR1393	1396883	1397860	977	amino acid permease
+SAR1394	1398035	1398898	863	catalase
+SAR1395	1399278	1399901	623	50S ribosomal protein L33 type 2
+SAR1396	1400041	1400277	236	30S ribosomal protein S14
+SAR1397	1400413	1400652	239	putative GMP reductase
+SAR1398	1400773	1402761	1988	hypothetical protein
+SAR1399	1403039	1403281	242	DNA damage-inducible repressor
+SAR1400	1403460	1403927	467	putative membrane protein
+SAR1401	1404051	1405172	1121	conserved hypothetical protein
+SAR1402	1405176	1408205	3029	putative transketolase
+SAR1403	1408278	1409033	755	putative exported protein
+SAR1404	1409057	1409845	788	putative membrane protein
+lysC	1409939	1410301	362	putative exonuclease
+asd	1410505	1412151	1646	putative exonuclease
+dapA	1412719	1415424	2705	putative insertion element protein
+dapB	1415605	1416072	467	putative transposase
+dapD	1416281	1416577	296	large-conductance mechanosensitive channel
+SAR1410	1416955	1417563	608	glycine betaine transporter 1
+dal	1417763	1419760	1997	aconitate hydratase
+lysA	1419760	1422162	2402	conserved hypothetical protein
+SAR1413	1422412	1423872	1460	conserved hypothetical protein
+cspA	1424372	1425223	851	putative membrane protein
+SAR1415	1425270	1425365	95	topoisomerase IV subunit B
+SAR1416	1425358	1426566	1208	topoisomerase IV subunit A
+SAR1417	1427047	1429569	2522	sodium:alanine symporter family protein
+SAR1418	1429772	1430281	509	transcription antiterminator
+SAR1419	1430418	1431401	983	hypothetical protein
+SAR1420	1431432	1433078	1646	putative membrane protein
+SAR1421	1433402	1433590	188	putative membrane protein
+SAR1422	1433735	1434997	1262	peptide methionine sulfoxide reductase I
+SAR1423	1435133	1436224	1091	putative membrane protein
+odhB	1436389	1437420	1031	putative transposase
+odhA	1437913	1439319	1406	putative 4-oxalocrotonate tautomerase
+arlS	1439316	1439882	566	ImpB/MucB/SamB family protein
+arlR	1439888	1440115	227	prephenate dehydrogenase
+SAR1428	1440886	1441668	782	putative peptidase
+SAR1429	1441668	1442300	632	anthranilate synthase component I
+murG	1442293	1443507	1214	anthranilate synthase component II
+SAR1431	1443500	1444228	728	anthranilate phosphoribosyltransferase
+SAR1432	1444550	1445812	1262	indole-3-glycerol phosphate synthase
+SAR1433	1445831	1447090	1259	N-(5'phosphoribosyl)anthranilate (PRA)
+SAR1434	1447753	1448521	768	tryptophan synthase beta chain
+SAR1435	1448569	1449027	458	tryptophan synthase alpha chain
+SAR1436	1449150	1449851	701	factor essential for expression of methicillin
+msrA2	1449844	1450617	773	putative methicillin resistance expression
+SAR1438	1450604	1451434	830	conserved hypothetical protein (pseudogene)
+dfrB	1451427	1452413	986	hypothetical protein
+thyA	1452717	1453061	344	putative oligopeptide transporter ATPase
+SAR1441	1453266	1455080	1814	putative oligopeptide transporter ATPase
+SAR1442	1455220	1455861	641	putative oligopeptide transport system permease
+SAR1443	1455868	1456719	851	putative oligopeptide transport system permease
+SAR1444	1456766	1457683	917	putative membrane protein
+SAR1445	1457685	1458611	926	putative peptidase
+SAR1446	1458802	1459785	983	putative phosphate transport system protein
+ebh	1460096	1460998	902	ABC transporter ATP-binding protein
+SAR1448	1461145	1462746	1601	ABC transporter permease protein
+SAR1449	1463603	1464808	1205	ABC transporter permease protein
+tdcB	1464872	1465861	989	phosphate-binding lipoprotein
+ald2	1465863	1466750	887	conserved hypothetical protein
+SAR1452	1466747	1467469	722	ABC transporter ATP-binding protein
+SAR1453	1467496	1468215	719	aspartokinase II
+SAR1455	1468358	1469509	1151	aspartate semialdehyde dehydrogenase
+SAR1456	1469514	1470599	1085	dihydrodipicolinate synthase
+rnpB	1470589	1471854	1265	dihydrodipicolinate reductase
+SAR1458	1472090	1472491	401	putative tetrahydrodipicolinate
+SAR1459	1472688	1472888	200	putative peptidase
+SAR1459a	1473059	1473367	308	putative alanine racemase
+recU	1473529	1473798	269	diaminopimelate decarboxylase
+pbp2	1473823	1474446	623	putative membrane protein
+SAR1462	1474478	1475614	1136	cold shock protein
+SAR1463	1475682	1477025	1343	hypothetical protein
+SAR1464	1477250	1479136	1886	putative acylphosphatase
+asnS	1479150	1479941	791	putative membrane protein
+SAR1466	1480122	1480325	203	conserved hypothetical protein
+birA	1480354	1481163	809	putative branched-chain amino acid transporter
+papS	1481753	1483024	1271	conserved hypothetical protein
+SAR1469	1483038	1485836	2798	conserved hypothetical protein
+SAR1470	1486310	1487665	1355	conserved hypothetical protein
+SAR1471	1487662	1488321	659	hypothetical protein
+SAR1472	1488791	1488964	173	dihydrolipoamide succinyltransferase E2
+SAR1473	1489107	1489721	614	2-oxoglutarate dehydrogenase E1 component
+SAR1474	1489738	1490808	1070	sensor kinase protein
+aroA	1490820	1491329	509	response regulator protein
+aroB	1491730	1493220	1490	hypothetical protein
+aroC	1493459	1494406	947	putative membrane protein
+ndk	1494479	1494700	221	putative
+SAR1479	1494700	1495200	500	putative acetyltransferase
+menH	1495212	1495640	428	putative protease
+SAR1481	1495633	1496166	533	putative transposase
+hup	1496252	1497091	839	conserved hypothetical protein
+gpsA	1497106	1497585	479	PTS system, glucose-specific IIA component
+SAR1484	1497785	1498741	956	conserved hypothetical protein
+SAR1485	1499165	1499602	437	peptide methionine sulfoxide reductase II
+cmk	1499618	1500742	1124	conserved hypothetical protein
+SAR1487	1500780	1501031	251	dihydrofolate reductase type I
+SAR1488	1501043	1501237	194	thymidylate synthase
+ebpS	1501482	1502186	704	conserved hypothetical protein
+SAR1490	1502427	1502828	401	conserved hypothetical protein
+SAR1491	1502887	1535127	32240	hypothetical protein
+SAR1492	1535528	1536919	1391	conserved hypothetical protein
+SAR1493	1537076	1538398	1322	putative membrane protein
+SAR1494	1538429	1539469	1040	conserved hypothetical protein
+SAR1495	1539564	1540682	1118	very large surface anchored protein
+SAR1497	1541157	1542035	878	transporter protein
+SAR1498	1542055	1545495	3440	amino acid permease
+SAR1499	1545799	1547007	1208	putative threonine dehydratase
+SAR1500	1547485	1547817	332	alanine dehydrogenase 2
+SAR1501	1547901	1549046	1145	putative 5'-3' exonuclease
+SAR1502	1549260	1549607	347	hypothetical protein
+SAR1503	1549697	1550041	344	putative membrane protein (pseudogene)
+SAR1504	1550055	1550618	563	putative exported protein
+SAR1505	1550611	1550961	350	conserved hypothetical protein
+SAR1506	1551024	1551194	170	conserved hypothetical protein
+SAR1507	1551500	1552126	626	conserved hypothetical protein
+SAR1508	1552123	1554273	2150	conserved hypothetical protein
+SAR1509	1554823	1555164	341	hypothetical protein
+SAR1510	1555169	1555828	659	putative recombination protein U
+SAR1511	1555818	1556504	686	penicillin-binding protein 2
+SAR1512	1556833	1558125	1292	putative exported protein
+SAR1513	1558447	1561140	2693	putative endonuclease
+SAR1514	1561164	1562135	971	conserved hypothetical protein
+SAR1515	1562122	1563324	1202	putative asparaginyl-tRNA synthetase
+SAR1516	1563329	1564471	1142	conserved hypothetical protein
+SAR1517	1564715	1565032	317	BirA bifunctional protein [includes: biotin
+SAR1518	1565368	1566066	698	poly A polymerase family protein
+SAR1519	1566120	1566707	587	putative glycosyl transferase
+SAR1520	1566697	1567272	575	conserved hypothetical protein
+SAR1521	1567286	1568530	1244	putative membrane protein
+SAR1522	1568537	1569835	1298	putative membrane protein
+SAR1523	1569845	1570909	1064	conserved hypothetical protein
+SAR1524	1570935	1572101	1166	conserved hypothetical protein
+SAR1525	1572570	1573019	449	3-phosphoshikimate 1-carboxyvinyltransferase
+SAR1526	1573111	1574070	959	putative 3-dehydroquinate synthase
+SAR1526a	1574072	1574797	725	chorismate synthase
+SAR1527	1574800	1575372	572	putative nucleoside diphosphate kinase
+SAR1528	1575803	1576075	272	putative heptaprenyl diphosphate synthase
+SAR1529	1576246	1577244	998	putative 2-heptaprenyl-1,4-naphthoquinone
+SAR1530	1577261	1578571	1310	hypothetical protein
+SAR1531	1578793	1579968	1175	DNA-binding protein HU
+SAR1532	1580680	1581339	659	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+SAR1533	1581416	1582384	968	putative GTPase
+SAR1534	1582499	1583485	986	putative 30S ribosomal protein S1
+SAR1535	1583870	1585330	1460	cytidylate kinase
+SAR1536	1585483	1586862	1379	putative L-asparaginase
+SAR1537	1586852	1587805	953	putative pyridine nucleotide-disulphide
+SAR1538	1587913	1588161	248	cell surface elastin binding protein
+SAR1539	1588267	1588812	545	DEAD/DEAH box helicase family protein
+SAR1540	1589460	1590368	908	hypothetical protein
+SAR1541	1590426	1591331	905	ferredoxin
+SAR1542	1591421	1591594	173	putative membrane protein
+SAR1543	1592358	1593812	1454	putative lipoprotein
+SAR1544	1593824	1594126	302	putative lipoprotein
+SAR1545	1594262	1594561	299	hypothetical protein (pseudogene)
+SAR1546	1594607	1594771	164	amidase
+SAR1547	1594764	1595153	389	holin
+SAR1548	1595153	1596619	1466	hypothetical phage protein
+SAR1549	1596619	1598529	1910	hypothetical phage protein
+SAR1550	1598545	1598835	290	hypothetical phage protein
+SAR1551	1598835	1600418	1583	hypothetical phage protein
+SAR1552	1600427	1601251	824	hypothetical phage protein
+SAR1553	1601251	1607451	6200	hypothetical phage protein
+SAR1554	1607465	1607623	158	hypothetical phage protein
+SAR1555	1607665	1608015	350	hypothetical phage protein
+SAR1556	1608073	1608528	455	hypothetical phage protein
+SAR1557	1608620	1609261	641	hypothetical phage protein
+SAR1558	1609296	1609691	395	hypothetical phage protein
+SAR1559	1609692	1610063	371	major tail protein
+SAR1560	1610090	1610422	332	major tail protein
+SAR1561	1610434	1610712	278	hypothetical phage protein
+SAR1562	1610781	1611944	1163	hypothetical phage protein
+srrB	1611956	1612729	773	hypothetical phage protein
+srrA	1612713	1613951	1238	hypothetical phage protein
+rluB	1613956	1615656	1700	hypothetical phage protein
+SAR1570	1615637	1615942	305	phage protease
+SAR1571	1616068	1616382	314	portal protein
+SAR1572	1616539	1616976	437	terminase large subunit
+xerD	1616989	1618347	1358	terminase small subunit
+fur	1618337	1618627	290	hypothetical phage protein
+SAR1575	1618968	1621415	2447	phage regulatory protein
+SAR1576	1621468	1621668	200	hypothetical phage protein
+SAR1577	1621671	1621742	71	hypothetical phage protein
+SAR1578	1621736	1621888	152	hypothetical phage protein
+SAR1579	1621881	1622117	236	putative exported phage protein
+SAR1581	1622142	1622378	236	hypothetical phage protein
+zwf	1622395	1622568	173	hypothetical phage protein
+SAR1583	1622605	1623141	536	hypothetical phage protein
+malA	1623134	1623382	248	hypothetical phage protein
+malR	1623375	1623806	431	hypothetical phage protein
+SAR1586	1623806	1623997	191	hypothetical phage protein
+SAR1587	1623994	1624386	392	hypothetical phage protein
+gnd	1624401	1624643	242	hypothetical phage protein
+SAR1590	1624658	1624858	200	hypothetical phage protein
+SAR1591	1624861	1625118	257	hypothetical phage protein
+SAR1592	1625118	1625519	401	hypothetical phage protein
+bfmB	1625519	1625704	185	hypothetical phage protein
+bfmBAB	1625717	1627678	1961	hypothetical phage protein
+bfmBAA	1627737	1628294	557	putative DNA-binding protein
+bfmBC	1628320	1629486	1166	hypothetical phage protein
+SAR1597	1629483	1629845	362	putative DNA polymerase
+argR	1629860	1630183	323	hypothetical phage protein
+SAR1599	1630262	1630423	161	hypothetical phage protein
+SAR1600	1630436	1630699	263	hypothetical phage protein
+SAR1601	1630726	1630941	215	hypothetical phage protein
+SAR1602	1630996	1631361	365	hypothetical phage protein
+SAR1603	1631330	1631575	245	putative DNA-binding protein
+accC	1631642	1632022	380	hypothetical phage protein
+accB	1632009	1632206	197	hypothetical phage protein
+efp	1632529	1632678	149	hypothetical phage protein
+SAR1607	1632693	1633136	443	hypothetical phage protein
+SAR1608	1633154	1633378	224	hypothetical phage protein
+SAR1609	1633540	1633920	380	hypothetical phage protein
+SAR1610	1633942	1634400	458	hypothetical phage protein
+SAR1611	1634418	1634852	434	putative regulatory protein
+SAR1612	1634881	1635276	395	putative regulatory protein
+SAR1613	1635366	1635488	122	hypothetical phage protein
+gcvT	1635475	1636098	623	putative lipoprotein
+SAR1615	1636208	1637413	1205	hypothetical phage protein
+SAR1616	1639484	1640415	931	hypothetical phage protein
+SAR1617	1640667	1642433	1766	putative membrane protein
+SAR1618	1642399	1643142	743	phage integrase
+SAR1619	1643257	1643994	737	putative lipoprotein (pseudogene)
+SAR1620	1643987	1644529	542	sensor kinase protein
+SAR1621	1644522	1645277	755	response regulator protein
+SAR1622	1645345	1645851	506	ribosomal large subunit pseudouridine synthase
+SAR1623	1645929	1646816	887	conserved hypothetical protein
+glkA	1646865	1647314	449	conserved hypothetical protein
+SAR1625	1647419	1647961	542	conserved hypothetical protein
+SAR1626	1648043	1648951	908	integrase/recombinase
+SAR1627	1649167	1649415	248	iron uptake regulatory protein
+rpmG1	1649431	1650189	758	putative ADP-ribose pyrophosphatase
+pbpF	1650328	1651143	815	aldo/keto reductase family protein
+sodA	1651248	1652168	920	hypothetical protein
+zur	1652481	1653965	1484	putative short chain dehydrogenase
+mreB	1654195	1655061	866	putative pyrroline-5-carboxylate reductase
+mreA	1655144	1656793	1649	conserved hypothetical protein
+SAR1634	1656809	1657828	1019	putative glucose-6-phosphate 1-dehydrogenase
+SAR1635	1658022	1658393	371	AraC family regulatory protein
+SAR1636	1658869	1659768	899	alpha-D-1,4-glucosidase
+SAR1637	1659783	1660996	1213	maltose operon transcriptional repressor
+rpoD	1661312	1662718	1406	glyoxalase/bleomycin resistance
+dnaG	1662786	1663919	1133	PfkB family carbohydrate kinase
+SAR1640	1664488	1665468	980	putative membrane protein (pseudogene)
+SAR1642	1665482	1665919	437	6-phosphogluconate dehydrogenase,
+SAR1643	1666269	1667543	1274	putative peptidase
+era	1667556	1668539	983	putative membrane protein
+cdd	1668539	1669531	992	conserved hypothetical protein
+SAR1646	1669547	1670968	1421	lipoamide acyltransferase component of
+SAR1647	1671119	1672798	1679	2-oxoisovalerate dehydrogenase beta subunit
+SAR1648	1672814	1673266	452	2-oxoisovalerate dehydrogenase alpha subunit
+SAR1649	1673697	1674578	881	putative dihydrolipoamide dehydrogenase
+SAR1650	1674556	1674786	230	putative DNA repair protein
+SAR1651	1674779	1676116	1337	arginine repressor
+rpsU	1676133	1676522	389	putative geranyltranstransferase
+SAR1653	1676582	1676944	362	putative exodeoxyribonuclease VII small subunit
+SAR1654	1676959	1678314	1355	putative exodeoxyribonuclease VII large subunit
+SAR1655	1678314	1678778	464	putative N utilization substance protein B
+dnaJ	1679252	1679809	557	conserved hypothetical protein
+dnaK	1679835	1680896	1061	biotin carboxylase subunit of acetyl-CoA
+grpE	1681001	1681582	581	biotin carboxyl carrier protein of acetyl-CoA
+hrcA	1681596	1681814	218	putative elongation factor P
+SAR1660	1681878	1682708	830	putative peptidase
+lepA	1682866	1683252	386	putative lipoprotein
+rpsT	1683637	1685109	1472	putative exported protein
+SAR1664	1685102	1686457	1355	lipoate-protein ligase A protein
+SAR1665	1686468	1687559	1091	putative membrane protein
+SAR1666	1687718	1688242	524	putative glycine cleavage system P-protein
+SAR1667	1688475	1688972	497	putative glycine cleavage system P-protein
+SAR1668	1688890	1689189	299	putative aminomethyltransferase
+SAR1669	1689176	1689610	434	putative shikimate kinase
+SAR1670	1689600	1689911	311	putative membrane protein
+SAR1671	1689925	1690995	1070	putative exported protein
+SAR1672	1690967	1691941	974	putative exported protein
+aroE	1691993	1692616	623	putative exported protein
+SAR1674	1692613	1692942	329	putative membrane protein
+SAR1675	1692942	1693928	986	hypothetical protein
+pfs	1693925	1694128	203	metallo-beta-lactamase superfamily protein
+SAR1677	1694109	1695572	1463	conserved hypothetical protein
+SAR1680	1695584	1696123	539	glucokinase
+SAR1683	1696332	1696481	149	conserved hypothetical protein
+SAR1684	1696594	1698669	2075	putative membrane protein
+SAR1685	1698789	1699388	599	5-formyltetrahydrofolate cyclo-ligase family
+SAR1686	1699664	1700074	410	50S ribosomal protein L33 type 1
+SAR1687	1700061	1700924	863	penicillin-binding protein PBP2B
+SAR1688	1700966	1701751	785	superoxide dismutase
+greA	1701877	1702767	890	zinc-specific metalloregulatory protein
+udk	1702777	1704123	1346	ABC transporter permease protein
+SAR1691	1704237	1705337	1100	ABC transporter ATP-binding protein
+SAR1692	1705340	1706017	677	putative endonuclease
+SAR1693	1706148	1707254	1106	putative helicase
+SAR1694	1707478	1709277	1799	conserved hypothetical protein
+SAR1695	1709338	1710156	818	conserved hypothetical protein
+SAR1696	1710167	1710796	629	RNA polymerase sigma factor
+alaS	1711125	1712516	1391	DNA primase
+SAR1698	1712667	1713419	752	conserved hypothetical protein
+SAR1699	1713441	1714340	899	putative DNA-binding protein (pseudogene)
+SAR1701	1714341	1714745	404	putative glycyl-tRNA synthetase
+SAR1702	1714756	1715100	344	putative recombination protein O
+SAR1703	1715103	1715570	467	putative GTP-binding protein
+SAR1704	1715571	1716518	947	cytidine deaminase
+SAR1705	1716821	1717519	698	putative diacylglycerol kinase
+SAR1706	1717536	1718525	989	conserved hypothetical protein
+SAR1707	1718543	1719250	707	PhoH-like protein
+SAR1708	1719470	1719646	176	hypothetical protein
+SAR1709	1719939	1721285	1346	putative exported protein
+aspS	1721292	1722044	752	putative membrane protein
+hisS	1722046	1722984	938	30S ribosomal protein S21
+SAR1713	1722988	1724127	1139	conserved hypothetical protein
+relA	1724263	1726095	1832	conserved hypothetical protein
+apt	1726164	1726790	626	putative methyltransferase
+SAR1716	1726822	1727799	977	chaperone protein
+secF	1727900	1729024	1124	chaperone protein
+SAR1718	1729531	1731354	1823	GrpE protein (Hsp-70 cofactor)
+queA	1731700	1731951	251	heat-inducible transcription repressor
+ruvB	1731996	1732970	974	putative oxygen-independent coproporphyrinogen
+ruvA	1733027	1735228	2201	putative GTP-binding protein
+SAR1723	1735233	1735694	461	putative 30S ribosomal protein S20
+obg	1735786	1736463	677	conserved hypothetical protein
+rpmA	1736512	1737228	716	putative membrane protein
+SAR1726	1737231	1737584	353	putative deaminase
+rplU	1737585	1738169	584	putative membrane protein
+SAR1728	1738159	1738728	569	conserved hypothetical protein
+SAR1729	1738731	1739021	290	conserved hypothetical protein
+SAR1729a	1739025	1739831	806	conserved hypothetical protein
+SAR1730	1739845	1740945	1100	conserved hypothetical protein
+SAR1731	1740946	1741473	527	conserved hypothetical protein
+SAR1732	1741493	1742179	686	shikimate 5-dehydrogenase
+radC	1742493	1742762	269	putative GTPase
+ermA2	1742964	1743212	248	conserved hypothetical protein
+spc2	1743730	1743909	179	5'-methylthioadenosine/S-adenosylhomocysteine
+tnpC2	1744264	1745483	1219	putative membrane protein
+tnpB2	1745773	1747005	1232	putative enterotoxin (pseudogene)
+tnpA2	1747017	1747769	752	hypothetical protein
+SAR1741	1747769	1749130	1361	hypothetical phage protein (pseudogene)
+folC	1749144	1749593	449	putative membrane protein
+valS	1749595	1750605	1010	conserved hypothetical protein
+tag	1750595	1751329	734	putative biotin carboxylase subunit of
+SAR1745	1751655	1752131	476	putative biotin carboxyl carrier protein of
+SAR1746	1752159	1752782	623	conserved hypothetical protein
+hemL	1752782	1754050	1268	conserved hypothetical protein
+hemB	1754062	1754985	923	transcription elongation factor
+hemD	1754988	1755626	638	uridine kinase
+hemC	1755911	1756219	308	putative peptidase
+SAR1751	1756234	1756662	428	putative peptidase
+hemA	1756666	1756926	260	putative O-methyltransferase
+SAR1753	1756989	1759619	2630	conserved hypothetical protein
+clpX	1759962	1762439	2477	conserved hypothetical protein
+tig	1762441	1763109	668	conserved hypothetical protein
+SAR1756	1763791	1764909	1118	putative alanyl-tRNA synthetase
+SAR1757	1764910	1766052	1142	conserved hypothetical protein
+rplT	1766362	1767375	1013	conserved hypothetical protein
+rpmI	1767612	1767758	146	conserved hypothetical protein
+infC	1767798	1767980	182	putative cysteine desulfurase
+lysP	1768080	1768502	422	putative oxygenase
+thrS	1768587	1769861	1274	hypothetical protein
+dnaI	1770022	1770795	773	conserved hypothetical protein
+dnaB	1771009	1771110	101	conserved hypothetical protein
+SAR1765	1771256	1773022	1766	putative ATPase
+gap2	1773038	1774300	1262	conserved hypothetical protein
+coaE	1774761	1775635	874	hypothetical protein
+SAR1768	1775632	1776084	452	aspartyl-tRNA synthetase
+polA	1776096	1778306	2210	histidyl-tRNA synthetase
+SAR1770	1778713	1779231	518	putative N-acetylmuramoyl-L-alanine amidase
+phoR	1779253	1781526	2273	conserved hypothetical protein
+phoP	1781729	1784008	2279	GTP pyrophosphokinase
+citC	1784283	1784543	260	adenine phosphoribosyltransferase
+citZ	1784562	1785701	1139	putative single-stranded-DNA-specific
+cycA	1785724	1786749	1025	putative protein-export membrane protein
+pyk	1786751	1787755	1004	putative exported protein
+pfkA	1787787	1788389	602	S-adenosylmethionine:tRNA
+accA	1788403	1788861	458	Holliday junction DNA helicase
+accD	1788871	1790163	1292	Holliday junction DNA helicase RuvA
+SAR1780	1790650	1790934	284	putative DNA-binding protein
+dnaE	1790946	1791266	320	Spo0B-associated GTP-binding protein
+SAR1782	1791272	1791580	308	50S ribosomal protein L27
+SAR1783	1791873	1792403	530	conserved hypothetical protein
+SAR1784	1792403	1793245	842	50S ribosomal protein L21
+SAR1785	1793445	1793564	119	putative membrane protein
+SAR1786	1793638	1794111	473	putative rod shape-determining protein
+ald1	1794253	1794468	215	hypothetical protein
+SAR1788	1794584	1794868	284	putative membrane protein
+ackA	1794936	1795082	146	putative membrane protein
+SAR1790	1795317	1795979	662	putative membrane protein
+SAR1791	1796513	1797244	731	DNA repair protein RadC (pseudogene)
+SAR1792	1797370	1798152	782	transposon Tn554 hypothetical protein
+thiI	1798303	1798680	377	rRNA adenine N-6-methyltransferase 2
+SAR1794	1798687	1800579	1892	streptomycin 3''-adenylyltransferase 2
+SAR1795	1800576	1801661	1085	transposase C 2
+SAR1796	1802331	1803038	707	transposase B 2
+rpsD	1803299	1804570	1271	transposase A 2
+SAR1798	1804583	1807213	2630	type III leader peptidase family protein
+SAR1799	1807616	1808176	560	putative folylpolyglutamate synthase
+SAR1800	1808399	1809472	1073	valyl-tRNA synthetase
+SAR1801	1809506	1809595	89	DNA-3-methyladenine glycosylase I
+SAR1802	1809667	1810953	1286	putative membrane protein
+SAR1803	1811001	1811975	974	hypothetical protein
+SAR1804	1811978	1812646	668	glutamate-1-semialdehyde 2,1-aminomutase
+SAR1805	1812668	1813594	926	delta-aminolevulinic acid dehydratase
+tyrS	1813636	1814451	815	uroporphyrinogen III synthase
+SAR1807	1814473	1815819	1346	porphobilinogen deaminase
+harA	1816036	1816626	590	putative membrane protein
+fhs	1816780	1818042	1262	glutamyl-tRNA reductase
+acsA	1818193	1819494	1301	putative GTP-binding protein
+acuA	1819657	1820586	929	ATP-dependent Clp protease ATP-binding subunit
+SAR1813	1820605	1821213	608	trigger factor (prolyl isomerase)
+ccpA	1821355	1821711	356	hypothetical protein
+SAR1815	1821758	1821958	200	conserved hypothetical protein
+SAR1816	1821987	1822514	527	50S ribosomal protein L20
+SAR1817	1822743	1824236	1493	50S ribosomal protein L35
+murC	1824663	1826600	1937	translation initiation factor IF-3
+SAR1819	1827013	1827933	920	lysine-specific permease
+SAR1820	1827933	1829333	1400	threonyl-tRNA synthetase
+SAR1821	1829334	1829804	470	putative primosomal protein
+SAR1822	1830014	1831039	1025	chromosome replication initiation/membrane
+SAR1823	1831209	1831832	623	conserved hypothetical protein
+SAR1824	1831848	1832720	872	glyceraldehyde 3-phosphate dehydrogenase 2
+SAR1825	1832736	1835366	2630	putative dephospho-CoA kinase
+SAR1826	1835659	1837146	1487	formamidopyrimidine-DNA glycosylase
+SAR1827	1837647	1839311	1664	DNA polymerase I
+tnpR	1839311	1840012	701	putative membrane protein
+blaI	1840402	1841670	1268	alkaline phosphatase synthesis sensor protein
+blaR1	1841719	1842840	1121	alkaline phosphatase synthesis transcriptional
+blaZ	1843188	1844549	1361	isocitrate dehydrogenase
+SAR1832	1844896	1846653	1757	citrate synthase II
+SAR1833	1846675	1847643	968	putative D-serine/D-alanine/glycine transporter
+SAR1834	1847912	1848856	944	pyruvate kinase
+dat	1848856	1849713	857	6-phosphofructokinase
+SAR1836	1849908	1851137	1229	acetyl-coenzyme A carboxylase carboxyl
+SAR1837	1851585	1854782	3197	acetyl-coenzyme A carboxylase carboxyl
+SAR1838	1854803	1855744	941	NAD-dependent malic enzyme
+SAR1839	1856055	1857353	1298	DNA polymerase III alpha subunit
+SAR1840	1857558	1857971	413	conserved hypothetical protein
+sasC	1858278	1858967	689	putative DNA-binding protein
+SAR1842	1859142	1860197	1055	putative universal stress protein
+leuS	1860507	1861625	1118	metallo-beta-lactamase superfamily protein
+SAR1844	1861766	1862266	500	putative metallopeptidase
+SAR1845	1862513	1863715	1202	alanine dehydrogenase 1
+SAR1846	1863802	1864749	947	putative universal stress protein
+rot	1864872	1865366	494	acetate kinase
+SAR1848	1865464	1866234	770	conserved hypothetical protein
+SAR1849	1866278	1867501	1223	putative thiol peroxidase
+ribH	1867501	1868640	1139	putative membrane protein
+ribA	1869008	1870702	1694	putative thiamine biosynthesis protein
+ribE	1870839	1871303	464	aminotransferase class-V protein
+ribD	1871547	1872149	602	putative septation ring formation regulator
+SAR1854	1872365	1873108	743	conserved hypothetical protein
+arsR2	1873188	1873634	446	30S ribosomal protein S4
+arsB2	1873749	1874909	1160	conserved hypothetical protein
+SAR1857	1874896	1876500	1604	OsmC-like protein
+SAR1858	1876650	1877780	1130	putative soluble hydrogenase subunit
+SAR1859	1877886	1879352	1466	D-3-phosphoglycerate dehydrogenase
+SAR1860	1879480	1880097	617	haloacid dehalogenase-like hydrolase
+SAR1861	1880269	1881543	1274	PTS system IIBC component
+SAR1862	1881637	1882899	1262	putative acyltransferase
+SAR1863	1883280	1884185	905	putative protease
+SAR1864	1884391	1886226	1835	tyrosyl-tRNA synthetase
+SAR1865	1887056	1887151	95	putative transglycosylase
+SAR1866	1887397	1889064	1667	haptoglobin-binding surface anchored protein
+SAR1867	1889504	1891210	1706	hypothetical protein
+SAR1868	1891379	1892011	632	formate--tetrahydrofolate ligase
+SAR1869	1892036	1893205	1169	acetyl-coenzyme A synthetase
+SAR1870	1893303	1894292	989	acetoin utilization protein
+pckA	1894832	1895923	1091	histone deacetylase family protein
+SAR1873	1896617	1897807	1190	catabolite control protein A
+SAR1874	1897881	1898372	491	DAHP synthetase-chorismate mutase
+SAR1875	1898446	1899759	1313	putative membrane protein
+SAR1876	1899783	1903607	3824	putative exported protein
+SAR1877	1903628	1904266	638	UDP-N-acetylmuramate--alanine ligase
+SAR1878	1904295	1905152	857	FtsK/SpoIIIE family protein
+SAR1879	1905252	1905563	311	conserved hypothetical protein
+SAR1880	1905628	1906704	1076	conserved hypothetical protein
+SAR1881	1906791	1907102	311	putative thioredoxin
+SAR1882	1907226	1908068	842	putative aminopeptidase
+SAR1883	1908514	1909329	815	putative membrane protein
+SAR1884	1909322	1910764	1442	metallo-beta-lactamase superfamily protein
+SAR1885	1910736	1911329	593	potential ATP-binding protein
+SAR1886	1911593	1911973	380	transposase
+SAR1889	1911963	1913720	1757	resolvase
+SAR1890	1913827	1914672	845	penicillinase repressor
+hysA1	1914968	1915084	116	beta-lactamase regulatory protein
+SAR1893	1915146	1915790	644	beta-lactamase precursor
+SAR1894	1915805	1916596	791	hypothetical protein
+SAR1895	1917147	1917995	848	putative methyltransferase
+SAR1896	1917999	1919408	1409	conserved hypothetical protein
+SAR1897	1919614	1920036	422	putative D-alanine aminotransferase
+SAR1898	1920053	1920748	695	putative peptidase
+SAR1899	1920745	1922406	1661	putative exported protein
+splE	1922810	1924078	1268	RNA pseudouridine synthase
+SAR1905	1924195	1930764	6569	putative polysaccharide biosynthesis protein
+splC	1931088	1931399	311	putative exported protein
+SAR1908	1931421	1933835	2414	putative surface anchored protein
+SAR1909	1934127	1935308	1181	conserved hypothetical protein
+SAR1910	1935419	1936372	953	leucyl-tRNA synthetase
+SAR1911	1936369	1936932	563	putative membrane protein
+SAR1913	1937051	1937551	500	conserved hypothetical protein
+SAR1916	1938025	1938852	827	conserved hypothetical protein
+SAR1917	1939086	1940087	1001	repressor of toxins
+SAR1918	1940209	1940673	464	conserved hypothetical protein
+SAR1919	1940686	1941867	1181	proline dehydrogenase
+SAR1920	1941878	1942510	632	6,7-dimethyl-8-ribityllumazine synthase
+SAR1921	1942517	1943560	1043	riboflavin biosynthesis protein
+SAR1922	1944041	1945543	1502	riboflavin synthase alpha chain
+hemY	1946186	1946500	314	bifunctional riboflavin biosynthesis protein
+hemH	1946500	1947792	1292	hypothetical protein
+hemE	1947879	1948733	854	arsenical resistance operon repressor 2
+trap	1949009	1949233	224	arsenical pump membrane protein 2
+SAR1927	1949432	1949902	470	putative exported protein
+SAR1928	1950015	1950458	443	hypothetical protein
+SAR1929	1950445	1950888	443	putative DNA-binding protein
+SAR1930	1951186	1951821	635	hypothetical protein
+SAR1930a	1951988	1952608	620	putative membrane protein
+SAR1931	1953066	1953779	713	CAAX amino terminal protease family protein
+SAR1932	1954038	1954340	302	putative membrane protein
+SAR1933	1954517	1954960	443	putative transaldolase
+SAR1934	1954957	1955310	353	putative membrane protein
+SAR1935	1955560	1956393	833	CrcB-like protein
+SAR1936	1956605	1957516	911	CrcB-like protein
+SAR1937	1957638	1958831	1193	aldo/keto reductase family protein
+SAR1938	1959203	1960795	1592	putative exported protein
+SAR1939	1961088	1961858	770	S-adenosylmethionine synthetase
+SAR1940	1961839	1962318	479	phosphoenolpyruvate carboxykinase
+SAR1941	1962378	1962635	257	conserved hypothetical protein
+citG	1962632	1963633	1001	conserved hypothetical protein
+SAR1943	1963638	1965116	1478	conserved hypothetical protein
+SAR1944	1965275	1965757	482	hypothetical protein
+SAR1945	1966128	1966682	554	AMP-binding enzyme
+SAR1946	1966763	1967758	995	putative lipoprotein
+SAR1947	1967834	1968460	626	putative lipoprotein
+glnQ	1968501	1968845	344	putative membrane protein
+SAR1949	1968943	1969515	572	putative lipoprotein
+SAR1950	1969664	1971031	1367	hypothetical protein
+perR	1971031	1971600	569	hypothetical protein
+SAR1952	1971793	1972239	446	hypothetical protein
+SAR1953	1972462	1972606	144	hypothetical protein
+SAR1954	1973184	1973630	446	putative exported protein
+SAR1955	1973627	1974073	446	putative transposase (fragment)
+SAR1956	1974070	1974393	323	putative exported protein
+SAR1957	1975037	1977457	2420	putative exported protein
+SAR1958	1977583	1977960	377	putative exported protein (pseudogene)
+SAR1959	1978170	1978619	449	hyaluronate lyase precursor 1
+SAR1960	1978662	1980272	1610	putative exported protein
+SAR1961	1980287	1980586	299	putative exported protein
+SAR1962	1980848	1982665	1817	hypothetical protein
+SAR1963	1982702	1983856	1154	hypothetical protein
+SAR1964	1983849	1985405	1556	hypothetical protein
+SAR1965	1985768	1986361	593	putative type I restriction modification DNA
+SAR1966	1986657	1987373	716	type I restriction modification system
+SAR1967	1987537	1988252	715	serine protease (pseudogene)
+SAR1968	1988419	1989135	716	serine protease
+SAR1969	1989259	1989978	719	serine protease (pseudogene)
+SAR1970	1990036	1990200	164	serine protease
+SAR1971	1990279	1990524	245	serine protease
+SAR1972	1990763	1990894	131	serine protease (fragment)
+SAR1973	1990993	1991508	515	hypothetical protein
+SAR1974	1991755	1993101	1346	hypothetical protein
+vraS	1993384	1993590	206	putative membrane protein
+SAR1976	1993688	1993924	236	putative exported protein
+SAR1977	1993945	1994721	776	transposase (fragment)
+SAR1978	1995296	1996072	776	hypothetical protein
+SAR1980	1996356	1997111	755	hypothetical protein (pseudogene)
+SAR1981	1997150	1997935	785	enterotoxin
+SAR1982	1998089	1998817	728	enterotoxin
+SAR1983	1998852	1999571	719	enterotoxin
+SAR1984	1999853	2000617	764	enterotoxin
+SAR1985	2002078	2002632	554	enterotoxin
+SAR1986	2002952	2004352	1400	enterotoxin
+SAR1987	2004376	2005299	923	hypothetical protein
+SAR1988	2005357	2006394	1037	putative protoporphyrinogen oxidase
+SAR1989	2006656	2007159	503	ferrochelatase
+gatB	2007283	2008506	1223	uroporphyrinogen decarboxylase
+gatA	2008499	2009239	740	signal transduction protein
+gatC	2009373	2009795	422	putative transporter protein
+putP	2009937	2010302	365	ABC transporter ATP-binding protein
+SAR1995	2010299	2010487	188	HIT-family protein
+lig	2011035	2011592	557	putative exported protein
+pcrA	2011797	2012759	962	hypothetical protein
+pcrB	2012880	2013821	941	putative membrane protein
+SAR1999	2013818	2016754	2936	putative peptidyl-prolyl cis-isomerase
+purB	2016744	2017940	1196	conserved hypothetical protein
+SAR2001	2018828	2019172	344	putative membrane protein
+SAR2002	2019241	2020365	1124	putative DNA repair exonuclease
+SAR2003	2020544	2021008	464	conserved hypothetical protein
+SAR2004	2021366	2021989	623	putative membrane protein
+SAR2005	2022011	2023123	1112	putative DNA-binding protein
+SAR2006	2023286	2024107	821	putative response regulator
+SAR2007	2024563	2025948	1385	putative histidine kinase
+SAR2008	2026144	2026539	395	RNA pseudouridylate synthase
+SAR2009	2027140	2027292	152	fumarate hydratase, class-II
+SAR2010	2027317	2027916	599	putative membrane protein
+SAR2011	2028075	2028545	470	putative membrane protein
+ppaC	2028550	2029677	1127	putative membrane protein
+SAR2013	2029828	2030556	728	SpoU rRNA methylase family protein
+SAR2014	2030543	2032000	1457	putative iron-sulphur protein
+SAR2015	2032259	2033320	1061	glutamine transport ATP-binding protein
+SAR2016	2042134	2042580	446	putative extracellular glutamine-binding
+SAR2017	2042677	2043627	950	putative membrane protein
+SAR2018	2043633	2044085	452	putative peroxide operon regulator
+SAR2019	2044169	2045458	1289	conserved hypothetical protein
+SAR2020	2045751	2046845	1094	AhpC/TSA family protein
+SAR2021	2047036	2048772	1736	putative glutamate-1-semialdehyde
+SAR2022	2049063	2049605	542	putative membrane protein
+SAR2023	2049908	2050945	1037	ABC transporter ATP-binding protein
+SAR2024	2051097	2052074	977	conserved hypothetical protein
+SAR2025	2052335	2053171	836	HhH-GPD superfamily base excision DNA repair
+SAR2026	2053180	2054697	1517	putative membrane protein
+SAR2027	2054712	2055026	314	putative membrane protein
+SAR2027a	2055004	2055822	818	putative membrane protein
+SAR2028	2056083	2056892	809	conserved hypothetical protein
+SAR2029	2057233	2057748	515	putative regulatory protein
+SAR2030	2057878	2058039	161	putative transglycosylase
+hlb	2058263	2059414	1151	ThiJ/PfpI family protein
+SAR2033	2059674	2060204	530	conserved hypothetical protein
+SAR2034	2060294	2061541	1247	conserved hypothetical protein
+SAR2035	2061553	2061768	215	conserved hypothetical protein
+chp	2061900	2062364	464	putative aminopeptidase
+sak	2062371	2062646	275	conserved hypothetical protein
+SAR2040	2062924	2064141	1217	low molecular weight phosphotyrosine protein
+SAR2041	2064254	2064883	629	putative exported protein
+SAR2042	2064873	2065916	1043	putative membrane protein
+SAR2043	2065913	2066614	701	putative response regulator
+SAR2044	2066629	2067015	386	histidine kinase sensor
+SAR2045	2067232	2067990	758	putative membrane protein
+SAR2046	2068690	2069676	986	hypothetical protein
+SAR2047	2069865	2070278	413	putative metallopeptidase
+SAR2048	2070503	2071234	731	putative membrane protein
+SAR2049	2071236	2072549	1313	hypothetical protein
+SAR2050	2072841	2073341	500	conserved hypothetical protein
+SAR2051	2073732	2074286	554	Mur ligase family protein
+SAR2052	2074353	2075423	1070	ferritin
+SAR2053	2075670	2076200	530	putative exonuclease
+SAR2054	2076370	2077731	1361	ImpB/MucB/SamB family protein
+SAR2055	2077812	2078759	947	putative membrane protein
+SAR2058	2079582	2081009	1427	putative RNA methyltransferase
+SAR2059	2081022	2082479	1457	conserved hypothetical protein
+SAR2060	2082481	2082783	302	glutamyl-tRNA amidotransferase subunit B
+SAR2061	2083150	2084688	1538	glutamyl-tRNA amidotransferase subunit A
+SAR2062	2084777	2085976	1199	glutamyl-tRNA amidotransferase subunit C
+SAR2063	2085989	2087992	2003	high affinity proline permease
+SAR2064	2087996	2090188	2192	putative lipoprotein
+SAR2065	2090185	2090877	692	DNA ligase
+SAR2065a	2091060	2091362	302	ATP-dependent DNA helicase
+SAR2066	2091471	2092766	1295	PcrB family protein
+SAR2067	2093617	2094783	1166	putative DNA-binding protein
+SAR2068	2094814	2095137	323	adenylosuccinate lyase
+SAR2069	2095431	2095604	173	staphopain protease
+SAR2070	2095585	2096187	602	hypothetical protein
+SAR2071	2096457	2097278	821	conserved hypothetical protein
+SAR2072	2097271	2098740	1469	putative membrane protein
+SAR2073	2098924	2100000	1076	putative NAD synthetase
+SAR2074	2100020	2100814	794	conserved hypothetical protein
+SAR2075	2101004	2102566	1562	putative oxygenase
+SAR2076	2102771	2103868	1097	putative prephenate dehydratase
+SAR2077	2104241	2104801	560	putative sodium:sulfate symporter
+SAR2080	2104848	2105783	935	hypothetical protein
+SAR2083	2106200	2107579	1379	isochorismatase family protein
+SAR2084	2107699	2108727	1028	manganese-dependent inorganic pyrophosphatase
+SAR2085	2108998	2109399	401	putative aldehyde dehydrogenase
+SAR2086	2109456	2109629	173	conserved hypothetical protein
+SAR2087	2110080	2111120	1040	hypothetical protein
+SAR2088	2111177	2112019	842	putative exported protein
+SAR2089	2112016	2112573	557	hypothetical protein
+SAR2090	2112633	2113157	524	putative exported protein
+SAR2091	2113278	2113841	563	putative membrane protein
+SAR2092	2113905	2114645	740	putative membrane protein
+SAR2093	2114645	2115517	872	hypothetical protein
+SAR2094	2115514	2116194	680	putative membrane protein
+SAR2095	2116195	2117091	896	putative ABC transporter ATP-binding protein
+SAR2096	2117088	2117543	455	putative membrane protein
+SAR2097	2117726	2117902	176	putative ABC transporter ATP-binding protein
+SAR2098	2118144	2118242	98	GntR family regulatory protein
+SAR2099	2118442	2119728	1286	putative membrane protein
+SAR2100	2119976	2121622	1646	hypothetical protein
+SAR2101	2121920	2123989	2069	conserved hypothetical protein
+SAR2102	2124378	2124560	182	putative transposase
+SAR2103	2124947	2125126	179	MHC class II analog
+SAR2104	2125150	2125458	308	phospholipase C precursor (pseudogene)
+int	2125437	2125697	260	putative membrane protein
+SAR2107	2125750	2126100	350	putative membrane protein
+SAR2108	2126786	2127235	449	putative membrane protein
+SAR2109	2127330	2127626	296	putative exported protein
+SAR2111	2128315	2128806	491	chemotaxis-inhibiting protein CHIPS
+SAR2113	2128998	2129753	755	amidase (fragment)
+SAR2114	2129765	2130019	254	staphylokinase precursor
+SAR2115	2130231	2130416	185	autolysin
+groEL	2130516	2131289	773	holin
+groES	2131407	2131601	194	putative membrane protein
+SAR2118	2131710	2132084	374	enterotoxin type A precursor
+SAR2119	2132140	2132427	287	hypothetical protein
+SAR2120	2132474	2132626	152	putative membrane protein
+SAR2121	2132616	2136401	3785	hypothetical phage protein
+hld	2136417	2137901	1484	hypothetical phage protein
+agrB	2137898	2142427	4529	hypothetical phage protein
+agrD	2142484	2142645	161	hypothetical phage protein
+agrC	2142672	2143022	350	putative membrane protein
+agrA	2143338	2143982	644	hypothetical phage protein
+SAR2127	2143983	2144390	407	hypothetical phage protein
+scrB	2144387	2144790	403	hypothetical phage protein
+scrR	2144787	2145149	362	hypothetical phage protein
+SAR2130	2145133	2145417	284	hypothetical phage protein
+SAR2131	2145407	2145691	284	hypothetical phage protein (pseudogene)
+SAR2132	2145711	2146856	1145	hypothetical phage protein
+SAR2133	2146880	2147617	737	hypothetical phage protein
+SAR2134	2147601	2148788	1187	hypothetical phage protein
+SAR2135	2148804	2150465	1661	hypothetical phage protein
+SAR2136	2150462	2150806	344	putative Clp protease
+SAR2137	2150829	2150942	113	hypothetical phage protein
+SAR2138	2150936	2151235	299	hypothetical phage protein
+SAR2139	2151467	2151883	416	hypothetical phage protein
+ilvD	2151911	2152114	203	hypothetical phage protein
+ilvB	2152111	2152260	149	hypothetical phage protein
+ilvC	2152257	2152643	386	hypothetical phage protein
+leuA	2152640	2152846	206	putative exported protein
+leuB	2152883	2153425	542	hypothetical phage protein
+leuC	2153418	2153600	182	hypothetical phage protein
+leuD	2153590	2153841	251	hypothetical phage protein
+ilvA	2153834	2154007	173	putative dUTP pyrophosphatase
+SAR2149	2154013	2154255	242	hypothetical phage protein
+SAR2150	2154259	2154627	368	hypothetical phage protein
+SAR2151	2154640	2154949	309	hypothetical phage protein
+sigB	2154958	2155176	218	hypothetical phage protein
+rsbW	2155183	2156056	873	hypothetical phage protein
+rsbV	2156086	2156556	470	hypothetical phage protein (pseudogene)
+rsbU	2156557	2157042	485	hypothetical phage protein
+SAR2156	2157255	2158175	920	putative phage regulatory protein (pseudogene)
+SAR2157	2158177	2160120	1943	putative single-strand DNA-binding protein
+alr	2160129	2160407	278	hypothetical phage protein
+acpS	2160401	2160661	260	hypothetical phage protein
+SAR2160	2160642	2160968	326	hypothetical phage protein
+SAR2161	2160965	2161066	101	hypothetical phage protein
+SAR2162	2161063	2161224	161	hypothetical phage protein
+kdpC	2161221	2161541	320	hypothetical phage protein
+kdpB	2161597	2162232	635	hypothetical phage protein
+kdpA	2162247	2162387	140	putative exported protein
+kdpD	2162418	2162615	197	hypothetical phage protein
+kdpE	2162631	2163383	752	hypothetical phage protein
+SAR2168	2163434	2163763	329	hypothetical phage protein
+SAR2169	2163752	2163967	215	hypothetical phage protein
+SAR2170	2163983	2164246	263	putative anti repressor
+SAR2171	2164379	2165092	713	hypothetical phage protein
+SAR2173	2165108	2166040	932	hypothetical phage protein
+SAR2174	2166046	2166387	341	DNA-binding protein
+SAR2177	2166570	2166773	203	putative repressor
+SAR2178	2166873	2167337	464	putative exonuclease
+SAR2179	2167396	2168433	1037	hypothetical phage protein
+thiE	2169572	2170591	1019	hypothetical phage protein
+thiM	2170613	2171668	1055	putative lipoprotein
+thiD	2172100	2173323	1223	integrase
+tenA	2173762	2175069	1307	putative leukocidin F subunit
+SAR2183b	2175406	2175627	221	putative leukocidin S subunit
+SAR2184	2175647	2175988	341	putative peptidase
+SAR2185	2175978	2176274	296	putative sodium transport protein
+SAR2186	2176271	2176459	188	putative transposase (fragment)
+fabZ	2176992	2178608	1616	hypothetical protein
+murA1	2178684	2178968	284	hypothetical protein
+SAR2189	2179143	2179886	743	hypothetical protein
+atpC	2179911	2181125	1214	60 kDa chaperonin
+atpD	2181322	2181948	626	10 kDa chaperonin
+atpG	2182309	2183094	785	putative membrane protein
+atpA	2183697	2183834	137	membrane anchored protein
+atpH	2184067	2184630	563	conserved hypothetical protein
+atpF	2184634	2184774	140	putative carbon-nitrogen hydrolase
+atpE	2184799	2186091	1292	delta-hemolysin precursor
+atpB	2186110	2186826	716	putative autoinducer processing protein
+atpI	2187200	2188159	959	autoinducer peptide precursor
+mnaA	2188156	2189640	1484	autoinducer sensor protein
+upp	2189789	2190739	950	autoinducer sensor protein response regulator
+glyA	2190923	2192173	1250	putative fructokinase
+SAR2202	2192382	2192606	224	sucrose-6-phosphate hydrolase
+SAR2203	2192666	2193745	1079	sucrose operon repressor
+SAR2204	2194051	2194686	635	ammonium transporter family protein
+SAR2205	2194939	2196867	1928	conserved hypothetical protein
+prfA	2197235	2198845	1610	putative membrane protein
+SAR2207	2199159	2200184	1025	conserved hypothetical protein
+rpmE	2200177	2200641	464	ABC transporter ATP-binding protein
+rho	2200614	2201276	662	putative membrane protein
+SAR2210	2201257	2201751	494	putative glycoprotease
+SAR2211	2202229	2203917	1688	putative acetyltransferase
+murA2	2203945	2205714	1769	conserved hypothetical protein
+SAR2213	2205714	2205968	254	conserved hypothetical protein
+SAR2214	2206105	2207109	1004	putative dihydroxy-acid dehydratase
+pyrG	2207139	2208668	1529	acetolactate synthase large subunit
+rpoE	2208671	2209717	1046	acetolactate synthase isozyme III small subunit
+SAR2217	2209731	2211098	1367	ketol-acid reductoisomerase
+SAR2218	2211099	2211671	572	2-isopropylmalate synthase
+SAR2219	2211686	2212954	1268	3-isopropylmalate dehydrogenase
+SAR2220	2213031	2213447	416	3-isopropylmalate dehydratase large subunit
+SAR2221	2219748	2220203	455	3-isopropylmalate dehydratase small subunit
+luxS	2220196	2222346	2150	threonine dehydratase biosynthetic
+SAR2223	2222781	2223551	770	putative exported protein
+pyn	2223526	2224005	479	23S ribosomal RNA
+deoC2	2224007	2224333	326	16S ribosomal RNA
+deoD2	2224452	2225453	1001	conserved hypothetical protein
+SAR2227	2225802	2226164	362	putative RNA binding protein
+SAR2228	2226161	2226331	170	RNA polymerase sigma-B factor
+SAR2229	2226416	2227564	1148	anti-sigma B factor
+SAR2230	2227630	2227989	359	anti-sigma B factor antagonist
+SAR2231	2227993	2228484	491	putative sigma factor sigB regulation protein
+SAR2232	2228477	2230054	1577	conserved hypothetical protein
+czrA	2230047	2230526	479	hypothetical protein
+czrB	2230735	2231295	560	alanine racemase
+SAR2235	2231315	2233342	2027	holo-[acyl-carrier protein] synthase
+SAR2237	2233361	2235037	1676	putative membrane protein
+SAR2239	2235309	2237966	2657	putative membrane protein
+SAR2240	2237966	2238661	695	conserved hypothetical protein
+SAR2241	2239017	2240537	1520	putative potassium-transporting ATPase C chain
+glmS	2241054	2242412	1358	putative potassium-transporting ATPase B chain
+SAR2243	2242427	2243497	1070	putative potassium-transporting ATPase a chain
+mtlA	2243815	2245017	1202	sensor kinase protein
+SAR2245	2245178	2245616	438	response regulator protein
+mtlF	2246273	2246410	137	putative helicase
+mtlD	2246538	2246747	209	putative
+fmtB	2246759	2247051	292	D-alanine--D-alanine ligase
+SAR2252	2247217	2248701	1484	putative membrane protein
+SAR2253	2248729	2249376	647	putative transposase (fragment)
+SAR2254	2249989	2250861	872	hypothetical protein
+rocF	2250947	2251588	641	hypothetical protein
+SAR2256	2251590	2252381	791	conserved hypothetical protein (pseudogene)
+SAR2259	2252365	2253195	830	putative cardiolipin synthetase
+SAR2260	2253188	2253877	689	conserved hypothetical protein
+SAR2261	2254140	2254412	272	putative membrane protein
+SAR2262	2254402	2255097	695	putative thiamine-phosphate pyrophosphorylase
+SAR2263	2255486	2255881	395	putative hydroxyethylthiazole kinase
+SAR2264	2256075	2256515	440	putative phosphomethylpyrimidine kinase
+SAR2265	2256572	2257012	440	transcriptional activator
+SAR2266	2257046	2258311	1265	hypothetical protein
+SAR2267	2258422	2258655	233	putative exported protein
+SAR2268	2259534	2259938	404	putative single strand DNA-binding protein
+SAR2269	2259958	2261370	1412	conserved hypothetical protein
+SAR2270	2261392	2262258	866	putative hydroxymyristoyl-(acyl carrier protein)
+SAR2271	2262289	2263797	1508	putative UDP-N-acetylglucosamine
+SAR2272	2263819	2264358	539	putative membrane protein
+asp23	2264358	2264879	521	ATP synthase epsilon chain
+SAR2274	2265078	2265290	212	ATP synthase beta chain
+SAR2275	2265333	2266061	728	ATP synthase gamma chain
+opuD2	2266082	2266435	353	ATP synthase alpha chain
+SAR2277	2266598	2267731	1133	putative ATP synthase delta chain
+SAR2278	2267752	2268381	629	putative ATP synthase subunit b
+SAR2279	2268409	2269647	1238	ATP synthase subunit c
+lacG	2269674	2270198	524	ATP synthase subunit a
+lacE	2270305	2270724	419	putative ATP synthase protein I
+lacF	2270721	2271767	1046	UDP-GlcNAc 2-epimerase
+lacD	2271851	2272687	836	uracil phosphoribosyltransferase
+lacC	2272674	2273750	1076	serine hydroxymethyltransferase
+lacB	2273751	2274350	599	conserved hypothetical protein
+lacA	2274697	2274951	254	putative low molecular weight
+lacR	2275069	2276385	1316	conserved hypothetical protein
+SAR2288	2276632	2278059	1427	conserved hypothetical protein
+SAR2289	2278297	2278635	338	peptide chain release factor 1
+SAR2289a	2278721	2279980	1259	putative thymidine kinase
+SAR2290	2280446	2281306	860	putative 50S ribosomal protein L31
+SAR2291	2281524	2282045	521	transcription termination factor
+hysA2	2282154	2283764	1610	aldehyde dehydrogenase family protein
+SAR2293	2284100	2284630	530	conserved hypothetical protein
+SAR2294	2284742	2285602	860	putative UDP-N-acetylglucosamine
+SAR2295	2286026	2286829	803	putative tagatose-bisphosphate aldolase
+SAR2296	2286955	2287626	671	conserved hypothetical protein
+SAR2297	2288025	2289218	1193	putative CTP synthase
+SAR2297a	2289218	2290402	1184	DNA-directed RNA polymerase delta subunit
+SAR2297b	2290712	2291182	470	putative acetyltransferase
+SAR2299	2291334	2291684	350	hypothetical protein
+rpsI	2291698	2292999	1301	hypothetical protein
+rplM	2293279	2293941	662	hypothetical protein
+SAR2302	2294256	2294966	710	putative peptidase
+SAR2303	2295087	2295530	443	autoinducer-2 production protein
+SAR2304	2295730	2296143	413	putative membrane protein
+SAR2305	2296592	2297965	1373	putative pyrimidine-nucleoside phosphorylase
+SAR2306	2298638	2298868	230	putative deoxyribose-phosphate aldolase
+SAR2307	2298899	2299837	938	putative purine nucleoside phosphorylase
+rplQ	2300273	2300938	665	putative non-heme iron-containing ferritin
+rpoA	2301090	2301410	320	conserved hypothetical protein
+rpsK	2301412	2302392	980	hypothetical protein
+rpsM	2302658	2303749	1091	putative membrane protein
+rpmJ	2304037	2305684	1647	putative mannose-6-phosphate isomerase
+infA	2306110	2306190	80	conserved hypothetical protein
+adk	2306521	2306727	206	zinc and cobalt transport repressor protein
+secY	2307489	2307581	92	zinc resistance protein
+rplO	2307711	2308568	857	putative membrane protein
+rpmD	2308636	2309418	782	putative transposase (pseudogene)
+rpsE	2309650	2311455	1805	hypothetical protein
+rplR	2311923	2312120	197	transposase (fragment)
+rplF	2312136	2313674	1538	hypothetical protein
+rpsH	2313709	2315841	2132	haloacid dehalogenase-like hydrolase
+rpsN	2315853	2316287	434	ABC transporter ATP-binding protein
+rplE	2316287	2317393	1106	glucosamine--fructose-6-phosphate
+rplX	2317712	2324977	7265	hypothetical protein
+rplN	2325364	2327010	1646	PTS system, mannitol-specific IIBC component
+rpsQ	2327307	2328662	1355	putative transcriptional antiterminator
+rpmC	2328689	2329621	932	PTS system, mannitol-specific IIA component
+rplP	2329623	2330432	809	putative mannitol-1-phosphate 5-dehydrogenase
+rpsC	2330622	2331530	908	putative surface anchored protein (pseudogene)
+rplV	2337747	2338811	1064	putative transposase
+rpsS	2338959	2340402	1443	putative phosphoglucosamine mutase
+rplB	2340591	2341058	467	putative exported protein
+rplW	2341186	2342529	1343	putative membrane protein
+rplD	2342707	2343390	683	arginase
+rplC	2343409	2344596	1187	conserved hypothetical protein
+rpsJ	2344640	2345155	515	putative transport protein (pseudogene)
+SAR2337	2345332	2345592	260	putative membrane protein
+SAR2338	2345724	2347094	1370	putative transport protein
+SAR2339	2347330	2348298	968	putative membrane protein
+SAR2340	2348295	2349326	1031	putative UTP--glucose-1-phosphate
+glcU	2349338	2350321	983	putative membrane protein
+SAR2342	2350714	2351784	1070	conserved hypothetical protein
+SAR2343	2351791	2353548	1757	putative membrane protein
+SAR2344	2353535	2354728	1193	FecCD transport family protein
+SAR2345	2354830	2356806	1976	FecCD transport family protein
+fmhB	2356967	2357476	509	putative transport system binding lipoprotein
+SAR2347	2357539	2357778	239	hypothetical protein
+SAR2348	2357791	2358327	536	hypothetical protein
+SAR2349	2358502	2360064	1562	putative membrane protein
+SAR2350	2360372	2361379	1007	hypothetical protein
+SAR2351	2361614	2362618	1004	alkaline shock protein 23
+moaA	2362898	2363767	869	putative membrane protein
+mobA	2364033	2365445	1412	putative membrane protein
+moaD	2365463	2367175	1712	glycine betaine transporter 2
+moaE	2367181	2367492	311	putative zinc-binding dehydrogenase
+mobB	2367514	2368494	980	putative zinc-binding dehydrogenase
+moeA	2368498	2369430	932	putative exported protein
+moaC	2369443	2369958	515	6-phospho-beta-galactosidase
+moaB	2369974	2370402	428	PTS system, lactose-specific IIBC component
+moeB	2370769	2371524	755	PTS system, lactose-specific IIA component
+modC	2371775	2372506	731	tagatose 1,6-diphosphate aldolase
+modB	2372764	2373372	608	tagatose-6-phosphate kinase
+modA	2373634	2373759	125	galactose-6-phosphate isomerase LacB subunit
+SAR2364	2373980	2374828	848	galactose-6-phosphate isomerase LacA subunit
+SAR2365	2374898	2375314	416	lactose phosphotransferase system repressor
+SAR2366	2375721	2378147	2426	Sir2 family protein
+SAR2367	2378207	2379061	854	hypothetical protein
+SAR2368	2379272	2380087	815	hypothetical protein
+SAR2369	2380382	2380807	425	aldo/keto reductase family protein
+SAR2370	2381198	2381902	704	MerR family regulatory protein
+SAR2371	2381939	2383603	1664	hyaluronate lyase precursor 2
+ureA	2383883	2383999	116	peptidase family M23/M37 protein
+ureB	2384073	2384255	182	hypothetical protein
+ureC	2384592	2384675	83	putative exported protein
+ureE	2385333	2386784	1451	conserved hypothetical protein
+ureF	2387118	2387510	392	putative acetolactate synthase
+ureG	2387530	2387967	437	hypothetical protein
+ureD	2388216	2389010	794	hypothetical protein
+sarR	2389015	2389821	806	hypothetical protein (fragment)
+SAR2380	2389811	2390671	860	hypothetical protein
+SAR2381	2390668	2391477	809	30S ribosomal protein S9
+SAR2382	2391853	2392608	755	50S ribosomal protein L13
+SAR2383	2392632	2393420	788	putative tRNA pseudouridine synthase
+SAR2384	2393673	2394041	368	putative cobalt transport protein
+SAR2385	2394058	2395002	944	ABC transporter ATP-binding protein
+SAR2386	2395077	2395466	389	ABC transporter ATP-binding protein
+SAR2387	2395490	2395855	365	putative insertion element protein
+SAR2388	2395878	2395991	113	putative transposase
+SAR2389	2396023	2396241	218	50S ribosomal protein L17
+SAR2390	2396434	2397081	647	DNA-directed RNA polymerase alpha chain
+SAR2391	2397098	2398390	1292	30S ribosomal protein S11
+SAR2391a	2398390	2398830	440	30S ribosomal protein S13
+SAR2392	2398847	2399026	179	50S ribosomal protein L36
+SAR2393	2399043	2399543	500	translation initiation factor IF-1
+SAR2394	2399564	2399923	359	adenylate kinase
+SAR2395	2399954	2400490	536	preprotein translocase SecY subunit
+SAR2396	2400515	2400913	398	50S ribosomal protein L15
+SAR2397	2400945	2401130	185	50S ribosomal protein L30
+SAR2398	2401153	2401692	539	30S ribosomal protein S5
+SAR2399	2401719	2402036	317	50S ribosomal protein L18
+SAR2400	2402072	2402440	368	50S ribosomal protein L6
+SAR2401	2402472	2402735	263	30S ribosomal protein S8
+SAR2402	2402759	2402968	209	30S ribosomal protein S14
+SAR2403	2402958	2403392	434	50S ribosomal protein L5
+SAR2404	2403395	2404048	653	50S ribosomal protein L24
+SAR2407	2404072	2404425	353	50S ribosomal protein L14
+SAR2408	2404454	2404732	278	30S ribosomal protein S17
+SAR2409	2404799	2405632	833	50S ribosomal protein L29
+SAR2410	2405665	2405940	275	50S ribosomal protein L16
+SAR2411	2405940	2406563	623	30S ribosomal protein S3
+SAR2412	2406590	2407252	662	50S ribosomal protein L22
+SAR2413	2407280	2407588	308	30S ribosomal protein S19
+hutI	2407939	2408334	395	50S ribosomal protein L2
+hutU	2408527	2409861	1334	50S ribosomal protein L23
+SAR2418	2409974	2412109	2135	50S ribosomal protein L4
+fosB	2412296	2413183	887	50S ribosomal protein L3
+SAR2420	2413364	2414227	863	30S ribosomal protein S10
+SAR2421	2414646	2415554	908	putative membrane protein
+SAR2422	2415687	2415851	164	xanthine/uracil permeases family protein
+SAR2423	2416096	2416413	317	putative DNA topoisomerase
+SAR2424	2416600	2419767	3167	acetyltransferase (GNAT) family protein
+SAR2425	2419884	2421149	1265	glucose uptake protein
+SAR2426	2421538	2421789	251	putative membrane protein
+SAR2427	2421781	2422545	764	conserved hypothetical protein
+SAR2428	2422708	2423148	440	putative membrane protein
+SAR2428a	2423141	2424352	1211	AcrB/AcrD/AcrF family protein
+SAR2428b	2424454	2424804	350	putative peptidoglycan pentaglycine interpeptide
+SAR2429	2425381	2426403	1022	putative membrane protein
+SAR2430	2426423	2427022	599	hypothetical protein
+fni	2427029	2427262	233	MarR family regulatory protein
+SAR2432	2427268	2427714	446	putative transporter protein
+SAR2433	2427728	2428213	485	hypothetical protein
+SAR2434	2428210	2429469	1259	putative molybdenum cofactor biosynthesis
+SAR2435	2429532	2430026	494	putative molybdopterin-guanine dinucleotide
+SAR2436	2430028	2430534	506	putative molybdopterin-synthase small subunit
+SAR2437	2430563	2431567	1004	putative molybdopterin-synthase large subunit
+SAR2438	2431735	2432340	605	putative molybdopterin-guanine dinucleotide
+SAR2439	2432341	2433012	671	putative molybdenum cofactor biosynthesis
+tcaB	2433026	2433808	782	putative molybdenum cofactor biosynthesis
+tcaA	2434098	2434895	797	putative molybdenum cofactor biosynthesis
+tcaR	2435066	2435836	770	putative molybdopterin synthase sulfurylase
+SAR2444	2435908	2436462	554	putative molybdenum transport ATP-binding
+SAR2445	2436583	2437524	941	putative molybdenum transport system permease
+SAR2446	2437923	2438831	908	putative molybdate-binding lipoprotein
+SAR2447	2439044	2440198	1154	FdhD/NarQ family protein
+SAR2448	2440245	2440337	92	acetyltransferase (GNAT) family protein
+SAR2449	2440413	2441318	905	BioY family protein
+SAR2450	2441578	2441880	302	putative inosine-uridine preferring nucleoside
+SAR2451	2441894	2442304	410	putative ferrichrome-binding lipoprotein
+SAR2452	2442301	2444016	1715	conserved hypothetical protein
+SAR2453	2444029	2444481	452	hypothetical protein
+mqo1	2444474	2445163	689	putative membrane protein
+lldP2	2445176	2445790	614	urease gamma subunit
+SAR2456	2445790	2446626	836	urease beta subunit
+SAR2457	2446815	2447162	347	urease alpha subunit
+SAR2458	2447590	2447916	326	urease accessory protein UreE
+SAR2459	2447980	2448723	743	urease accessory protein UreF
+SAR2460	2448749	2450704	1955	urease accessory protein UreG
+SAR2461	2451314	2452123	809	urease accessory protein UreD
+SAR2462	2452192	2452386	194	staphylococcal accessory regulator A homologue
+SAR2463	2452560	2453960	1400	hypothetical protein
+SAR2464	2454055	2455137	1082	hypothetical protein
+SAR2465	2455385	2455807	422	putative transcriptional regulator
+scrA	2456044	2456535	491	putative exported protein
+SAR2467	2456894	2457847	953	hypothetical protein
+SAR2468	2457939	2459063	1124	putative Na+/H+ antiporter
+SAR2469	2459728	2460504	776	putative dehydrogenase
+SAR2470	2460526	2460777	251	putative membrane protein
+SAR2471	2461053	2461526	473	putative exported protein
+gltT	2461526	2464480	2954	putative D-isomer specific 2-hydroxyacid
+SAR2473	2465082	2466029	947	putative monooxygenase
+SAR2474	2466162	2466959	797	putative N-acetylmuramoyl-L-alanine amidase
+SAR2475	2467344	2468036	692	putative membrane protein
+narT	2468061	2468798	737	conserved hypothetical protein
+SAR2477	2468847	2469176	329	putative bifunctional protein
+SAR2480	2469621	2470493	872	putative exported protein
+SAR2481	2470876	2472255	1379	inositol monophosphatase family protein
+SAR2482	2472535	2472891	356	DeoR family regulatory protein
+narI	2472888	2473073	185	putative membrane protein
+narJ	2473169	2473360	191	hypothetical protein
+narH	2473371	2474006	635	putative transcription regulator
+narG	2474081	2474461	380	putative amino acid permease
+SAR2487	2475266	2475796	530	putative membrane protein
+nasE	2475862	2477466	1604	putative membrane protein
+nasD	2477797	2478561	764	putative membrane protein
+SAR2490	2478619	2479125	506	haloacid dehalogenase-like hydrolase
+SAR2491	2479295	2480671	1376	sodium/bile acid symporter family protein
+SAR2493	2480830	2481399	569	hypothetical protein
+SAR2494	2481886	2482767	881	PTS system, arbutin-like IIBC component
+SAR2495	2482878	2483090	212	putative transcription regulator
+SAR2496	2484274	2485512	1238	hypothetical protein
+SAR2497	2485512	2487173	1661	putative transport protein
+SAR2498	2487333	2488217	884	putative membrane protein
+SAR2499	2488459	2488878	419	putative short chain dehydrogenase
+SAR2500	2489134	2490069	935	putative peptidase (pseudogene)
+fmhA	2490347	2491606	1259	putative imidazolonepropionase
+SAR2502	2491672	2492358	686	urocanate hydratase
+SAR2503	2492529	2493182	653	LysR family regulatory protein
+SAR2504	2493418	2494437	1019	putative fosfomycin resistance protein
+SAR2505	2494467	2494793	326	arginase family protein
+SAR2506	2495011	2496243	1232	putative membrane protein
+SAR2507	2496236	2497135	899	putative ribose 5-phosphate isomerase
+sbi	2497368	2498015	647	conserved hypothetical protein
+hlgA	2498007	2498129	122	putative aldose 1-epimerase
+hlgC	2498195	2498326	131	putative membrane protein
+hlgB	2498414	2499022	608	putative membrane protein
+SAR2512	2499358	2500566	1208	ABC transporter ATP-binding protein
+SAR2513	2500614	2501663	1049	putative membrane protein
+SAR2514	2501694	2502641	947	hypothetical protein
+bioB	2502738	2503229	491	hypothetical protein
+bioA	2503226	2503645	419	putative 3-methylpurine glycosylase
+SAR2517	2503753	2504673	920	putative permease
+SAR2518	2504881	2505519	638	isopentenyl-diphosphate delta-isomerase
+SAR2519	2505765	2507702	1937	CorA-like Mg2+ transporter protein
+SAR2519a	2507715	2508362	647	hypothetical protein
+SAR2520	2508483	2509037	554	hypothetical protein
+SAR2521	2509128	2509358	230	hypothetical protein
+SAR2522	2509792	2511000	1208	putative membrane protein
+SAR2523	2511268	2512650	1382	putative transport protein
+SAR2524	2512890	2513345	455	putative exported protein
+SAR2525	2513540	2514508	968	TetR family regulatory protein
+SAR2526	2514738	2515403	665	conserved hypothetical protein (fragment)
+SAR2527	2515403	2516458	1055	teicoplanin resistance associated membrane
+SAR2528	2516594	2517268	674	teicoplanin resistance associated membrane
+SAR2529	2517261	2518634	1373	MarR family regulatory protein
+SAR2530	2518797	2519240	443	putative membrane protein
+SAR2531	2519237	2519692	455	ABC transporter ATP-binding protein
+SAR2532	2519869	2520432	563	putative permease protein
+SAR2533	2520566	2521294	728	response regulator protein
+SAR2534	2521291	2522373	1082	sensor kinase protein
+opuCD	2522500	2524035	1535	hypothetical protein
+opuCC	2524359	2525957	1598	putative membrane protein
+opuCB	2526274	2527947	1673	putative membrane protein
+opuCA	2528101	2528730	629	ABC transporter ATP_binding protein
+SAR2539	2529046	2529561	515	putative membrane protein
+SAR2540	2529751	2530755	1004	putative malate:quinone oxidoreductase 1
+SAR2541	2531321	2531722	401	putative L-lactate permease 2
+SAR2542	2531758	2532792	1034	hypothetical protein
+SAR2543	2533019	2533450	431	putative lipoprotein
+SAR2544	2533656	2534933	1277	acetyltransferase (GNAT) family protein
+SAR2545	2535094	2535717	623	putative zinc-binding dehydrogenase
+SAR2546	2535763	2536707	944	putative acetyltransferase (GNAT) family
+SAR2547	2536793	2538235	1442	pyridine nucleotide-disulphide oxidoreductase
+SAR2548	2538418	2538801	383	putative membrane protein
+SAR2549	2540289	2542394	2105	putative membrane protein
+opp-1F	2542465	2542887	422	TetR family regulatory protein
+opp-1D	2543165	2543521	356	CorA-like Mg2+ transporter protein
+opp-1C	2543734	2545380	1646	PTS system, sucrose-specific IIBC component
+opp-1B	2545682	2546959	1277	conserved hypothetical protein
+opp-1A	2547141	2547506	365	AraC family regulatory protein
+SAR2555	2547903	2548349	446	conserved hypothetical protein
+SAR2556	2548573	2548995	422	putative exported protein
+SAR2557	2549103	2550272	1169	putative transposase
+SAR2558	2550781	2551695	914	putative proton/sodium-glutamate symport
+SAR2559	2551674	2551958	284	putative exported protein
+SAR2560	2552668	2553321	653	MarR family regulatory protein
+SAR2561	2553344	2554378	1034	putative small heat shock protein
+SAR2562	2554402	2554854	452	nitrite transport protein
+SAR2563	2554874	2555551	677	conserved hypothetical protein
+SAR2565	2555544	2556119	575	MerR family regulatory protein (pseudogene)
+SAR2566	2556112	2557671	1559	putative response regulator
+SAR2567	2557661	2561350	3689	putative histidine kinase
+SAR2568	2561657	2562634	977	hypothetical protein
+SAR2569	2562625	2562939	314	putative nitrate reductase gamma chain
+SAR2570	2562943	2565348	2405	respiratory nitrate reductase delta chain
+SAR2573	2565394	2566146	752	nitrate reductase beta chain
+SAR2574	2566374	2566910	536	nitrate reductase alpha chain
+SAR2575	2567378	2568202	824	tetrapyrrole (corrin/porphyrin) methylase family
+SAR2576	2568405	2568587	182	assimilatory nitrite reductase small subunit
+SAR2577	2568673	2569140	467	nitrite reductase large subunit
+SAR2578	2569326	2570873	1547	conserved hypothetical protein
+gtaB	2571166	2571432	266	acetyltransferase (GNAT) family protein
+fnbA	2571432	2571683	251	putative nitrite transporter
+SAR2581	2571954	2572553	599	putative membrane protein
+gntP	2572572	2572934	362	hypothetical protein
+gntK	2573189	2574439	1250	putative solute binding lipoprotein
+gntR	2574532	2575263	731	conserved hypothetical protein
+SAR2585	2575260	2575979	719	conserved hypothetical protein
+SAR2586	2575960	2576739	779	putative lipoprotein
+SAR2587	2576860	2578299	1439	putative lipoprotein
+SAR2588	2578730	2579416	686	FemAB family protein
+SAR2589	2579743	2580609	866	ABC transporter ATP-binding protein
+SAR2590	2581308	2582621	1313	transport system membrane protein
+SAR2591	2583157	2584086	929	extracellular solute-binding lipoprotein
+SAR2592	2584636	2585583	947	putative transport system protein
+SAR2593	2585585	2586562	977	putative phosphoglycerate mutase
+SAR2594	2586614	2587081	467	cation efflux family protein
+SAR2595	2587092	2587784	692	IgG-binding protein
+SAR2596	2587795	2588910	1115	gamma-hemolysin component A precursor
+SAR2597	2588888	2589895	1007	gamma-hemolysin component C precursor
+SAR2598	2589897	2591255	1358	gamma-hemolysin component C precursor
+SAR2599	2591233	2591919	686	putative membrane protein
+SAR2600	2592372	2594105	1733	putative 6-carboxyhexanoate--CoA ligase
+SAR2601	2594130	2595914	1784	putative 8-amino-7-oxononanoate synthase
+SAR2602	2596407	2596514	107	putative biotin synthase
+ddh	2596545	2596799	254	putative
+SAR2607	2596782	2597168	386	putative dethiobiotin synthetase
+srtA	2597436	2598578	1142	ABC transporter ATP-binding protein
+SAR2609	2598638	2599297	659	ABC transporter ATP-binding protein
+SAR2610	2599479	2600690	1211	hypothetical protein
+SAR2611	2600813	2601286	473	hypothetical protein
+SAR2612	2601399	2602055	656	putative membrane protein
+SAR2613	2602118	2602924	806	putative glycerate kinase
+SAR2614	2603209	2604618	1409	putative membrane protein
+SAR2615	2604756	2606834	2078	putative transporter protein
+SAR2616	2606974	2608803	1829	hypothetical protein
+SAR2617	2609035	2610534	1499	hypothetical protein
+glcB	2610641	2611492	851	hypothetical protein
+SAR2619	2611814	2612749	935	putative amino acid permease
+SAR2620	2612975	2614375	1400	sodium/hydrogen exchanger family protein
+SAR2621	2614669	2615364	695	putative membrane protein
+SAR2622	2615364	2616305	941	putative exported protein
+SAR2623	2616322	2616957	635	hypothetical protein
+SAR2624	2616954	2618180	1226	putative ketopantoate reductase
+mvaA	2618850	2619449	599	putative transport protein
+mvaS	2619630	2621267	1637	putative glycine betaine/carnitine/choline
+SAR2627	2621574	2622926	1352	putative glycine
+clpL	2622988	2624175	1187	putative glycine betaine/carnitine/choline
+SAR2629	2624569	2625345	776	putative glycine betaine/carnitine/choline
+SAR2630	2625338	2626000	662	conserved hypothetical protein
+SAR2631	2626346	2627422	1076	putative amino acid permease
+SAR2632	2627660	2628115	455	putative carboxylesterase
+SAR2633	2628283	2629860	1577	putative transport protein
+SAR2634	2630056	2630805	749	putative membrane protein
+SAR2635	2631029	2632222	1193	ABC transporter ATP-binding protein
+SAR2636	2632234	2632983	749	conserved hypothetical protein
+copA	2632976	2633791	815	putative lipoprotein
+SAR2639	2633788	2634657	869	putative membrane protein
+SAR2640	2634654	2635589	935	putative membrane protein
+SAR2641	2635602	2637200	1598	putative transport protein
+crtN	2637343	2638644	1301	oligopeptide transporter putative ATPase domain
+crtM	2638637	2639455	818	oligopeptide transporter putative ATPase domain
+SAR2646	2639466	2640287	821	oligopeptide transporter putative membrane
+SAR2647	2640989	2641756	767	oligopeptide transporter putative membrane
+ssaA	2641857	2642675	818	oligopeptide transporter putative substrate
+SAR2649	2642910	2644448	1538	conserved hypothetical protein
+isaA	2644560	2644982	422	conserved hypothetical protein
+SAR2651	2645435	2645848	413	conserved hypothetical protein
+SAR2652	2645866	2646285	419	conserved hypothetical protein
+SAR2653	2646537	2646878	341	putative short chain dehydrogenase
+SAR2654	2646990	2647400	410	putative transport protein
+SAR2655	2647678	2648100	422	conserved hypothetical protein
+SAR2656	2648352	2649047	695	putative membrane protein
+SAR2657	2649346	2649627	281	putative membrane protein
+SAR2658	2649885	2650076	191	putative membrane protein (pseudogene)
+SAR2659	2650637	2651431	794	putative exported protein
+SAR2660	2651541	2652292	751	putative exported protein
+SAR2661	2652402	2653178	776	putative short chain dehydrogenase
+SAR2662	2653482	2656343	2861	hypothetical protein
+SAR2663	2656345	2656737	392	hypothetical protein
+SAR2664	2657004	2658662	1658	putative exported protein
+SAR2665	2658946	2659212	266	putative exported protein (pseudogene)
+SAR2666	2659356	2659664	308	putative lipoprotein
+SAR2667	2659791	2660657	866	putative helicase
+SAR2668	2660837	2663734	2897	putative NUDIX hydrolase
+SAR2669	2663869	2664069	200	putative phosphomannomutase
+SAR2670	2664202	2665560	1358	putative exported protein
+SAR2671	2665677	2667230	1553	putative membrane protein
+SAR2672	2667255	2667935	680	UTP--glucose-1-phosphate uridylyltransferase
+SAR2673	2668122	2668853	731	fibronectin-binding protein precursor
+SAR2674	2669018	2669710	692	hypothetical protein
+panD	2669941	2670429	488	putative gluconate permease
+panC	2670496	2672319	1823	putative gluconokinase
+panB	2672796	2674073	1277	gluconate operon transcriptional repressor
+SAR2678	2674624	2675235	611	MerR family regulatory protein
+SAR2679	2675466	2676083	617	conserved hypothetical protein
+ldh2	2676080	2677060	980	hypothetical protein
+SAR2681	2677159	2678571	1412	putative membrane protein
+SAR2682	2679257	2679952	695	putative transporter protein
+SAR2683	2679954	2680724	770	DedA family protein
+fda	2681229	2683193	1964	putative LysE type translocator
+mqo2	2683537	2684616	1079	putative fatty acid desaturase
+SAR2686	2684721	2685317	596	putative transcriptional regulator
+SAR2687	2685336	2686304	968	ABC transporter ATP-binding protein
+SAR2688	2686382	2686816	434	putative membrane protein
+SAR2689	2687033	2687326	293	conserved hypothetical protein
+cudB	2687501	2688307	806	putative membrane protein
+cudA	2688428	2688820	392	putative phospholipase/carboxylesterase
+SAR2692	2689369	2690361	992	putative dioxygenase
+cudT	2690769	2691193	424	MarR family regulatory protein
+nrdG	2691460	2692260	800	acetyltransferase (GNAT) family protein
+nrdD	2692490	2693110	620	glyoxalase/bleomycin resistance
+SAR2696	2693304	2693795	491	nitroreductase family protein (pseudogene)
+SAR2697	2694594	2695493	899	D-specific D-2-hydroxyacid dehydrogenase
+cysJ	2695507	2696187	680	putative transposase (fragment)
+SAR2699	2696190	2697233	1043	putative haloacid dehalogenase-like hydrolase
+SAR2700	2697783	2697986	203	sortase A
+SAR2701	2698179	2699105	926	acetyltransferase (GNAT) family protein
+SAR2702	2699186	2700154	968	putative L-serine dehydratase, alpha chain
+SAR2703	2700275	2700631	356	putative L-serine dehydratase, beta chain
+SAR2704	2700673	2701083	410	putative membrane protein
+phoB	2701463	2703529	2066	putative membrane protein
+SAR2706a	2703829	2705568	1739	putative membrane protein
+SAR2707	2705608	2706297	689	putative exported protein
+SAR2708	2706290	2706685	395	conserved hypothetical protein
+clfB	2706899	2707777	878	hypothetical protein
+SAR2710	2707944	2708162	218	PTS system, glucose-specific IIABC component
+arcC	2708550	2708981	431	thiamine pyrophosphate enzyme
+arcD	2709121	2710401	1280	putative membrane protein
+arcB	2710656	2711822	1166	putative membrane protein
+arcA	2711993	2712514	521	LysR family regulatory protein
+SAR2715	2712877	2714982	2105	hypothetical protein
+aur	2715052	2715222	170	putative exported protein
+isaB	2715235	2717229	1994	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+SAR2718	2717241	2717468	227	3-hydroxy-3-methylglutaryl coenzyme A synthase
+SAR2719	2717683	2720172	2489	putative 6-O-methylguanine DNA
+SAR2720	2720317	2720865	548	putative ATP-dependent protease ATP-binding
+pmi	2721221	2722765	1544	putative membrane protein
+SAR2722	2722955	2723554	599	putative ferrous iron transport protein B
+SAR2723	2723784	2723984	200	hypothetical protein
+SAR2724	2724224	2726632	2408	putative transport protein
+sasF	2727453	2727659	206	TetR family regulatory protein
+SAR2726	2727749	2728747	998	aldehyde dehydrogenase family protein
+SAR2727	2728770	2729924	1154	putative acetyltransferase
+SAR2728	2730351	2731859	1508	putative exported protein
+SAR2729	2731871	2732449	578	putative copper importing ATPase A
+SAR2730	2732771	2733898	1127	putative heavy-metal-associated protein
+SAR2733	2733904	2735397	1493	D-isomer specific 2-hydroxyacid dehydrogenase
+sasA	2735390	2735887	497	putative aminotransferase
+SAR2735	2736059	2736826	767	squalene synthase
+SAR2738	2737187	2738998	1811	squalene desaturase (pseudogene)
+SAR2739	2739685	2740386	701	putative glycosyl transferase
+SAR2740	2740994	2742049	1055	putative phytoene dehydrogenase related protein
+SAR2741	2742460	2743029	569	putative membrane protein
+SAR2742	2743227	2743727	500	secretory antigen precursor
+SAR2743	2743947	2744177	230	putative membrane protein
+SAR2744	2744340	2744717	377	immunodominant antigen A
+SAR2745	2744734	2745555	821	putative membrane protein
+icaR	2745574	2745873	299	TetR family regulatory protein
+icaA	2746004	2746561	557	hypothetical protein
+icaD	2746554	2747258	704	conserved hypothetical protein
+icaB	2747356	2748366	1010	putative glyoxalase
+icaC	2748386	2749216	830	conserved hypothetical protein
+SAR2752	2749363	2750253	890	hypothetical protein
+lip	2750353	2751699	1346	TetR family regulatory protein
+hisIE	2751687	2752793	1106	putative short chain dehydrogenase
+hisF	2753126	2753422	296	conserved hypothetical protein
+hisA	2753410	2753778	368	putative hydrolase
+hisH	2753793	2754071	278	cobalamin synthesis protein/P47K family protein
+hisB	2754408	2755274	866	putative membrane protein
+SAR2759	2755492	2756556	1064	hypothetical protein
+hisD	2756711	2756986	275	conserved hypothetical protein
+hisG	2757172	2757894	722	hypothetical protein
+SAR2762	2758250	2758699	449	hypothetical protein
+SAR2763	2758780	2759367	587	conserved hypothetical protein
+SAR2764	2759510	2761192	1682	putative dihydroorotate dehydrogenase
+SAR2765	2761321	2761704	383	putative membrane protein
+SAR2766	2761706	2762557	851	conserved hypothetical protein
+SAR2767	2762550	2763368	818	conserved hypothetical protein
+SAR2768	2763441	2764301	860	putative DNA-binding protein
+SAR2769	2764387	2765091	704	conserved hypothetical protein
+drp35	2765369	2766328	959	putative aspartate 1-decarboxylase precursor
+SAR2771	2767014	2768462	1448	putative pantoate--beta-alanine ligase
+pcp	2768542	2769885	1343	putative 3-methyl-2-oxobutanoate
+SAR2773	2770133	2770549	416	putative ketopantoate reductase
+cna	2770672	2771562	890	putative alpha-acetolactate decarboxylase
+SAR2775	2771755	2773251	1496	L-lactate dehydrogenase 2
+SAR2776	2773678	2773878	200	amino acid permease family protein
+SAR2777	2773938	2775557	1619	putative aminotransferase
+SAR2778	2775730	2776173	443	putative membrane protein
+SAR2779	2776453	2776665	212	fructose-bisphosphate aldolase class I
+SAR2780	2776943	2778652	1709	putative malate:quinone oxidoreductase 2
+vraD	2778913	2780403	1490	putative membrane protein
+vraE	2780653	2781219	566	putative AMP-binding enzyme
+SAR2783	2781389	2783011	1622	hypothetical protein
+SAR2787	2783529	2784065	536	hypothetical protein
+SAR2788	2784062	2785912	1850	putative choline dehydrogenase
+SAR2789	2786159	2787529	1370	putative betaine aldehyde dehydrogenase
+cspB	2788018	2788626	608	conserved hypothetical protein
+SAR2791	2788692	2790572	1880	choline transporter
+SAR2792	2790963	2791460	497	putative anaerobic ribonucleotide reductase
+SAR2793	2792901	2794901	2000	anaerobic ribonucleoside-triphosphate reductase
+SAR2795	2794898	2795653	755	putative transporter protein
+gidB	2795761	2796648	887	conserved hypothetical protein
+gidA	2796659	2797324	665	putative sulfite reductase [NADPH] flavoprotein
+SAR2798	2797350	2797550	200	putative glutathione peroxidase
+rnpA	2797748	2797759	11	putative membrane protein
+rpmH	2797873	2798820	947	ABC transporter ATP-binding protein
