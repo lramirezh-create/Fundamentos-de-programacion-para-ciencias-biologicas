@@ -1,4 +1,4 @@
-# ANÁLISIS EPIDEMIOLÓGICO DEL DENGUE - CUMPLIMIENTO DE RÚBRICA
+# ANÁLISIS EPIDEMIOLÓGICO DEL DENGUE 
 # ===========================================================
 
 # Importar librerías
@@ -156,4 +156,5 @@ print(" Heatmap generado: Compara datos numéricos (casos) organizados por dos d
 
 
 # Mostrar todos los gráficos
+
 plt.show()
